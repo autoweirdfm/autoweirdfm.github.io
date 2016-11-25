@@ -22,6 +22,21 @@ url: "https://autoweiredfm.github.io" # the base hostname & protocol for your si
 twitter_username: autoweirdfm
 github_username:  autoweirdfm
 
+# Podcast rss feed configuration
+podcast_url: https://autoweirdfm.github.io
+podcast_album_art: /assets/images/autoweirdfm_logo_500x500.png
+podcast_title: "@Autoweird.fm"
+podcast_owner: "@Autoweird.fm Team"
+podcast_email: ""
+podcast_category: "Technik"
+podcast_subcategory_one: "Software Entwicklung"
+podcast_subcategory_two: "Software Craftsmanship"
+podcast_explicit: "no"
+podcast_author: "Holger Grosse-Plankermann und Benedikt Ritter"
+podcast_description: Regelmäßiger Podcast rund um Software Entwicklung, Agilität und Software Craftsmanship.
+podcast_summary: Holger Grosse-Plankermann und Benedikt Ritter verabreden sich zu einem regelmäßigen Feierabendbierchen, bei dem kräftig über relevante Themen rund um Software Entwicklung, Agilität und Software Craftsmanship diskutiert und philosophiert wird.
+podcast_subtitle: Bier - Software Entwicklung - Philosphieren
+
 # Build settings
 markdown: kramdown
 theme: minima
