@@ -18,7 +18,7 @@ email: ""
 description: "@Autoweird.fm ist der regelmäßig erscheinende Podcast rund um die
   Themen Software Entwicklung, Agilität und Software Craftsmanship."
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://autoweiredfm.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://autoweirdfm.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: autoweirdfm
 github_username:  autoweirdfm
 
