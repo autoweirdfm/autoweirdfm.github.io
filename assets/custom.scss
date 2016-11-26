@@ -2,6 +2,10 @@
 # Make Jekyll compile this to css
 ---
 
-header {
+.header-image {
   background-color: black;
+
+  &_wrapper {
+    text-align: center;
+  }
 }
