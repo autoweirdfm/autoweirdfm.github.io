@@ -21,6 +21,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://autoweirdfm.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: autoweirdfm
 github_username:  autoweirdfm
+header_image: /assets/images/autoweirdfm_logo_269x100_lightbg.png
 
 # Podcast rss feed configuration
 podcast_url: https://autoweirdfm.github.io

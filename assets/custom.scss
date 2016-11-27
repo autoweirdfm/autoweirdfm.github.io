@@ -1,0 +1,15 @@
+---
+# Make Jekyll compile this to css
+---
+
+.header-image {
+  background-color: black;
+
+  &_wrapper {
+    text-align: center;
+  }
+}
+
+.intro-text {
+  border-bottom: 1px solid #e8e8e8
+}
