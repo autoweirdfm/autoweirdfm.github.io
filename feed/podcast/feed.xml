@@ -37,7 +37,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <url>{{ site.url }}{{ site.podcast_album_art }}</url>
 <link>{{ site.url }}</link>
 </image>
-<category>{{ site.podcast_category }}/{{ site.podcast_subcategory_one }}/{{ site.podcast_subcategory_two }}</category>
+<itunes:category>{{ site.podcast_category }}/{{ site.podcast_subcategory_one }}/{{ site.podcast_subcategory_two }}</itunes:category>
 <copyright>Creative Commons Attribution-ShareAlike 3.0 Unported</copyright>
 {% for ep in site.categories.podcast %}
   <item>
