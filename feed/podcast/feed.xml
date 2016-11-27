@@ -41,6 +41,7 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <itunes:category text="{{ site.podcast_subcategory_one }}" />
 <itunes:category text="{{ site.podcast_subcategory_two }}" />
 </itunes:category>
+<copyright>Creative Commons Attribution-ShareAlike 3.0 Unported</copyright>
 {% for ep in site.categories.podcast %}
   <item>
     <title>{{ ep.title }}</title>
