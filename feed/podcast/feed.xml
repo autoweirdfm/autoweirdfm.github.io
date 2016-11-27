@@ -17,6 +17,9 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <atom:link href="{{ site.url }}/feed/podcast" rel="self" type="application/rss+xml" />
 <link>{{ site.url }}</link>
 <description>{{ site.podcast_description }}</description>
+<category>
+{{ site.podcast_category }}/{{ site.podcast_subcategory_one }}/{{ site.podcast_subcategory_two }}
+</category>
 <lastBuildDate>{{ site.time | date: "%a, %d %b %Y %H:%M:%S %z" }}</lastBuildDate>
 <language>de-DE</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
@@ -37,7 +40,6 @@ xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
 <url>{{ site.url }}{{ site.podcast_album_art }}</url>
 <link>{{ site.url }}</link>
 </image>
-<itunes:category>{{ site.podcast_category }}/{{ site.podcast_subcategory_one }}/{{ site.podcast_subcategory_two }}</itunes:category>
 <copyright>Creative Commons Attribution-ShareAlike 3.0 Unported</copyright>
 {% for ep in site.categories.podcast %}
   <item>
