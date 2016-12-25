@@ -41,7 +41,7 @@ Links:
 
 Bier:
 
-- Das Bier von Benedikt. Ein [Flensburger Gold] (https://untappd.com/b/flensburger-brauerei-emil-petersen-flensburger-gold/9143)
+- Das Bier von Benedikt. Ein [Flensburger Gold](https://untappd.com/b/flensburger-brauerei-emil-petersen-flensburger-gold/9143)
 - Holgers Bier des Abends. [BrauKunsKeller Mandarina IPA](https://untappd.com/b/himburgs-braukunstkeller-mandarina-ipa/322594) 
 
 
