@@ -9,7 +9,7 @@ podcast_link: https://dl.dropboxusercontent.com/s/5zgwv3pbayux8og/folge-9-idris.
 podcast_file_size: 37,9 MB
 podcast_duration: "45:07"
 podcast_length: 37908512
-published: false
+published: true
 ---
 
 Auch heute wieder eine Premiere bei autoweird.fm: Wir reden heute zum ersten Mal über eine Programmiersprache. Aber nicht irgendeine Programmiersprache! Weit gefehlt! Hier kommt der heiße Scheiß (presented by @autoweird.fm): [Idris](https://www.idris-lang.org/)! Wer uns kennt, weiß, dass wir bei neuen, vielleicht auch zunächst abwägig klingenden Konzepten immer hellhörig werden. Mit Idirs war das mal wieder der Fall und wir hoffen, euch ein wenig anteasern zu können. In dieser Folge gibt Benedikt eine kleine Einführung in die Konzepte von Idris und wir quatschen über den eleganten Ansatz des [Type-Driven-Developments](https://www.idris-lang.org/STL2015/idris-stl.pdf). Und wir reden über ADTs ... :)
