@@ -5,7 +5,7 @@ date:   2017-01-08 13:00:00 +0100
 categories: podcast
 permalink: /folge4-rest-in-practice/
 image: /assets/images/autoweirdfm_logo_500x500.png
-podcast_link: https://dl.dropboxusercontent.com/u/3058827/autoweird.fm/folge-4_REST-in-Practice.mp3
+podcast_link: https://www.dropbox.com/s/o3xu66rgq1a9gl1/folge-4_REST-in-Practice.mp3
 podcast_file_size: 44.6 MB
 podcast_duration: "53:09"
 podcast_length: 44649346

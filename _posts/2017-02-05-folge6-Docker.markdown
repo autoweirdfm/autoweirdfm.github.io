@@ -5,7 +5,7 @@ date:   2017-02-05 12:11:00 +0100
 categories: podcast
 permalink: /folge6-docker/
 image: /assets/images/autoweirdfm_logo_500x500.png
-podcast_link: https://dl.dropboxusercontent.com/u/3058827/autoweird.fm/folge-6_Docker.mp3
+podcast_link: https://www.dropbox.com/s/xed4vnpbx2n6zr3/folge-6_Docker.mp3
 podcast_file_size: 46.7 MB
 podcast_duration: "55:34"
 podcast_length: 46688203

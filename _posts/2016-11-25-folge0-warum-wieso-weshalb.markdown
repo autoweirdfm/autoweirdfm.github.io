@@ -5,7 +5,7 @@ date:   2016-11-25 22:00:10 +0100
 categories: podcast
 permalink: /0/
 image: /assets/images/autoweirdfm_logo_500x500.png
-podcast_link: https://dl.dropboxusercontent.com/u/3058827/autoweird.fm/folge-0_Warum-wieso-weshalb.mp3
+podcast_link: https://www.dropbox.com/s/kcazb5uwhfwe888/folge-1_ApacheCON-Europe-2016.mp3
 podcast_file_size: 27.3 MB
 podcast_duration: "32:19"
 podcast_length: 27298031

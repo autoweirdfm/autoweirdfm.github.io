@@ -5,7 +5,7 @@ date:   2016-12-01 21:08:10 +0100
 categories: podcast
 permalink: /zwischenfolge-mbp/
 image: /assets/images/autoweirdfm_logo_500x500.png
-podcast_link: https://dl.dropboxusercontent.com/u/3058827/autoweird.fm/zwischenfolge_MacBookPro.mp3
+podcast_link: https://www.dropbox.com/s/d3tpzlcbnu2kwsf/zwischenfolge_MacBookPro.mp3
 podcast_file_size: 10.7 MB
 podcast_duration: "11:06"
 podcast_length: 10660049

@@ -5,7 +5,7 @@ date:   2016-12-11 14:30:00 +0100
 categories: podcast
 permalink: /folge2-kinderzimmer/
 image: /assets/images/autoweirdfm_logo_500x500.png
-podcast_link: https://dl.dropboxusercontent.com/u/3058827/autoweird.fm/folge-2_Kinderzimmer-der-Softwareentwicklung.mp3
+podcast_link: https://www.dropbox.com/s/uqwka6z8vd9sxvy/folge-2_Kinderzimmer-der-Softwareentwicklung.mp3
 podcast_file_size: 31.2 MB
 podcast_duration: "37:02"
 podcast_length: 31168386

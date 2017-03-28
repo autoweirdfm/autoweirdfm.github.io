@@ -5,7 +5,7 @@ date:   2017-01-22 14:16:00 +0100
 categories: podcast
 permalink: /folge5-trello/
 image: /assets/images/autoweirdfm_logo_500x500.png
-podcast_link: https://dl.dropboxusercontent.com/u/3058827/autoweird.fm/folge-5_Trello.mp3
+podcast_link: https://www.dropbox.com/s/1tkzrr6o5a9skst/folge-5_Trello.mp3
 podcast_file_size: 31.8 MB
 podcast_duration: "37:52"
 podcast_length: 31833254
