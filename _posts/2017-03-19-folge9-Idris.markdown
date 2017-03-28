@@ -5,7 +5,7 @@ date:   2017-03-19 11:00:00 +0100
 categories: podcast
 permalink: /folge9-idris/
 image: /assets/images/autoweirdfm_logo_500x500.png
-podcast_link: https://dl.dropboxusercontent.com/s/5zgwv3pbayux8og/folge-9-idris.mp3
+podcast_link: https://www.dropbox.com/s/dtcwjkxbw4yj3on/folge-7-software-craftsmanship.mp3
 podcast_file_size: 37,9 MB
 podcast_duration: "45:07"
 podcast_length: 37908512

@@ -5,7 +5,7 @@ date:   2017-02-19 14:11:00 +0100
 categories: podcast
 permalink: /folge7-softwarecraftsmanship/
 image: /assets/images/autoweirdfm_logo_500x500.png
-podcast_link: https://dl.dropboxusercontent.com/s/dtcwjkxbw4yj3on/folge-7-software-craftsmanship.mp3
+podcast_link: https://www.dropbox.com/s/dtcwjkxbw4yj3on/folge-7-software-craftsmanship.mp3
 podcast_file_size: 28,1 MB
 podcast_duration: "33:29"
 podcast_length: 28130059
