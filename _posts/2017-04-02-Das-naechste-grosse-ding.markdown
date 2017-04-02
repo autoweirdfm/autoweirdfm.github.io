@@ -9,7 +9,7 @@ podcast_link: https://www.dropbox.com/s/o6oy60v3eoh2qmi/folge-10-das-naechste-gr
 podcast_file_size: 48,1 MB
 podcast_duration: "57:18"
 podcast_length: 48144479
-published: false
+published: true
 ---
 
 Die 10. Folge autoweird.fm! Hammer! Wir sind amazed! Auf nem Plattencover würde da jetzt ein fettes X draufstehen. Wahrscheinlich jedenfalls.  Das feiern wir, in dem Holger auch mal die Ansage sprechen darf/kann/muss. Ob das die Zukunft ist? Man weiß es nicht! :) 
