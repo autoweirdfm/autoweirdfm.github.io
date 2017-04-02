@@ -5,7 +5,8 @@ date:   2016-12-25 14:30:00 +0100
 categories: podcast
 permalink: /folge3-fehlerbehandlung/
 image: /assets/images/autoweirdfm_logo_500x500.png
-podcast_link: https://www.dropbox.com/s/pfcgexu9be3jreg/folge3-fehlerbehandlung.mp3
+podcast_link: https://s3.eu-central-1.amazonaws.com/autoweirdfm/podcasts/folge-3-fehlerbehandlung.mp3
+#podcast_link: https://www.dropbox.com/s/pfcgexu9be3jreg/folge3-fehlerbehandlung.mp3
 podcast_file_size: 33.8 MB
 podcast_duration: "40:13"
 podcast_length: 33789094
