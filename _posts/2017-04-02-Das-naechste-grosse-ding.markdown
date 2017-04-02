@@ -13,7 +13,12 @@ published: true
 ---
 
 Die 10. Folge autoweird.fm! Hammer! Wir sind amazed! Auf nem Plattencover würde da jetzt ein fettes X draufstehen. Wahrscheinlich jedenfalls.  Das feiern wir, in dem Holger auch mal die Ansage sprechen darf/kann/muss. Ob das die Zukunft ist? Man weiß es nicht! :) 
-In dieser Folge schwadronieren wir über 'Das nächste große Ding'. Wir lassen mal wieder ein wenig die gute alte Zeit Revue passieren. Schwelgen in Erinnerungen über Objektorientierung, GOF-Patterns, JSF, EJB 2 und Java everywhere. Wir streifen das Jetzt mit Hypethemen wie Microservices, Cloud, funktionaler Programmierung, reaktiven Systemen und TypeScript. Und enthüllen dann das nächste große Ding. Das Ding, was uns bis in unsere Rente begleiten wird. Das Ding, auf das alle gewartet haben.
+
+In dieser Folge schwadronieren wir über 'Das nächste große Ding'. Wir lassen mal wieder ein wenig die gute alte Zeit Revue passieren. Schwelgen in Erinnerungen über Objektorientierung, GOF-Patterns, JSF, EJB 2 und Java everywhere.
+Wir streifen das Jetzt mit Hypethemen wie Microservices, Cloud, funktionaler Programmierung, reaktiven Systemen und TypeScript. 
+
+Und enthüllen dann das nächste große Ding. Das Ding, was uns bis in unsere Rente begleiten wird. Das Ding, auf das alle gewartet haben.
+
 Aber dafür müsst ihr die Folge hören :)
 Danke nochmal an Robert fürs Fehler finden und melden und sorry für das #DropboxGate.
 
