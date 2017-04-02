@@ -5,7 +5,7 @@ date:   2017-03-05 15:57:00 +0100
 categories: podcast
 permalink: /folge8-das-optimale-projekt/
 image: /assets/images/autoweirdfm_logo_500x500.png
-podcast_link: https://www.dropbox.com/s/vizpkfkmdwp82nm/folge-8_Das-optimale-Projekt.mp3
+podcast_link: https://s3.eu-central-1.amazonaws.com/autoweirdfm/podcasts/folge-8_Das-optimale-Projekt.mp3
 podcast_file_size: 30,5 MB
 podcast_duration: "36:19"
 podcast_length: 30501688

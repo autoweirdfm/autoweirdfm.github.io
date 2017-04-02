@@ -5,7 +5,7 @@ date:   2016-11-27 11:18:10 +0100
 categories: podcast
 permalink: /1/
 image: /assets/images/autoweirdfm_logo_500x500.png
-podcast_link: https://www.dropbox.com/s/kcazb5uwhfwe888/folge-1_ApacheCON-Europe-2016.mp3
+podcast_link: https://s3.eu-central-1.amazonaws.com/autoweirdfm/podcasts/folge-1_ApacheCON-Europe-2016.mp3
 podcast_file_size: 36.3 MB
 podcast_duration: "43:09"
 podcast_length: 36327151
