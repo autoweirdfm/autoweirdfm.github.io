@@ -5,7 +5,7 @@ date:   2017-04-02 11:00:00 +0100
 categories: podcast
 permalink: /folge10-das-naechste-grosse-ding/
 image: /assets/images/autoweirdfm_logo_500x500.png
-podcast_link: https://www.dropbox.com/s/o6oy60v3eoh2qmi/folge-10-das-naechste-grosse-ding.mp3
+podcast_link: http://feeds.soundcloud.com/stream/315677033-user-179250685-folge-10-das-ganz-grose-ding.mp3
 podcast_file_size: 48,1 MB
 podcast_duration: "57:18"
 podcast_length: 48144479
