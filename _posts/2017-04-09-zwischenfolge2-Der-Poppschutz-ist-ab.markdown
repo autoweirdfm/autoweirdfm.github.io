@@ -28,6 +28,7 @@ Benedikt berichtet von linearer Logik in Idris.
 
 Links:
 
+- Das rote [Ding](https://focusrite.de/usb-audio-interfaces/scarlett-2i4)
 - Zum Erstellen unserer Website verwenden wir [Jekyll](http://jekyllrb.com/)
 - Bereit gestellt werden die Folgen über [Amazon S3](https://aws.amazon.com/s3)
 - Nicht zu verwechseln mit dem [Samsung Galaxy S3](https://de.wikipedia.org/wiki/Samsung_Galaxy_S_III)
