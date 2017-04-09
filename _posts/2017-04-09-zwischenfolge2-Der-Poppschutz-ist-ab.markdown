@@ -33,7 +33,7 @@ Links:
 - Bereit gestellt werden die Folgen über [Amazon S3](https://aws.amazon.com/s3)
 - Nicht zu verwechseln mit dem [Samsung Galaxy S3](https://de.wikipedia.org/wiki/Samsung_Galaxy_S_III)
 - Testweise haben wir auch eine Folge bei [Soundcloud](https://soundcloud.com/) hochgeladen
-- [Auphonic](https://auphonic.com/) ist eine Plattform von [Tim Pritlove](https://metaebene.me/timpritlove/) zum verwalten von Podcasts
+- [Podlove](https://podlove.org/) ist eine Plattform von [Tim Pritlove](https://metaebene.me/timpritlove/) zum verwalten von Podcasts
 - [Ueberspace](https://uberspace.de/) bietet Webhosting zum Pay as much as you want Tarif
 
 Biere:
