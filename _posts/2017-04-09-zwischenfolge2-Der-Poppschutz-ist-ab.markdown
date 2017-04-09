@@ -38,7 +38,7 @@ Links:
 
 Biere:
 
-- In dieser Folge haben wir Holgers Biervorrat geplündert und beide ein [Ratsherren Pale Ale](https://untappd.com/b/ratsherrn-brauerei-pale-ale/204742) getrunken.
+- In dieser Folge haben wir Holgers Biervorrat geplündert und beide ein [Ratsherrn Pale Ale](https://untappd.com/b/ratsherrn-brauerei-pale-ale/204742) getrunken.
 
 
 Datum der Aufnahme: 07.04.2017
