@@ -20,21 +20,21 @@ Links:
 
 - Die Folge über Mass Effect Andromeda in Benes Lieblingspodcast [Auf ein Bier](https://soundcloud.com/andre-peschke/runde-104-mass-effect-andromeda-verschwendete-lebenszeit)
 - Mass Effect ist genauso mittelmäßig wie [Electron](https://josephg.com/blog/electron-is-flash-for-the-desktop/)?
-- Das ist Holgers [Craft Beer Glas](https://www.craftbeer.de/shop/glaeser-und-zubehoer/rastal-teku-3-0-craftbeerglas/) der Wahl
-- Werden wir von einer [antifaschistischen Punkband](https://www.youtube.com/watch?v=JBfzY9n_3A8) wegen Gema Gebühren verklagt? Vielleicht treiben die auch GEZ Gebühren ein? Btw. Pogo!!
-- Bene war nicht auf dem [Frege Meetup](http://rheinjug.de/knowledge/vortr-mainmenu-28/277-naechster-vortrag-frege-konsequent-funktionale-programmierung-fuer-die-jvm-dierk-koenig) und hat das Abfeiern der Monaden verpasst!
+- Das ist Holgers [Craft Beer-Glas](https://www.craftbeer.de/shop/glaeser-und-zubehoer/rastal-teku-3-0-craftbeerglas/) der Wahl
+- Werden wir von einer [antifaschistischen Punkband](https://www.youtube.com/watch?v=JBfzY9n_3A8) wegen Gema-Gebühren verklagt? Vielleicht treiben die auch GEZ-Gebühren ein? Btw. Pogo!!
+- Bene war nicht auf dem [Frege-Meetup](http://rheinjug.de/knowledge/vortr-mainmenu-28/277-naechster-vortrag-frege-konsequent-funktionale-programmierung-fuer-die-jvm-dierk-koenig) und hat das Abfeiern der Monaden verpasst!
 - In Düsseldorf gibt es mittlerweile so viele Meetups, dass sich auch schon ähnliche Themen um einen Termin kloppen: [WebWorker](https://www.meetup.com/de-DE/Webworker-NRW/) vs. [WebEngineering](https://www.meetup.com/de-DE/Web-Engineering-Duesseldorf/). Schade, aber auch cool so viele Meetups zu haben!
-- Auf dem WebWorker Meetup letztens gab es einen klasse [Talk über Elixir](https://docs.google.com/presentation/d/1_kJX6bGN2CKCHj6UMicEXxQGF5qyCwTZZwVi4AmNGKY)
-- Der Bene ist aktiv im [Apache Commons Projekt](https://commons.apache.org/proper/commons-lang/) und ist irgendwie so in das [SBT](https://github.com/sbt/sbt-header) Projekt reingerutscht.
+- Auf dem WebWorker-Meetup letztens gab es einen klasse [Talk über Elixir](https://docs.google.com/presentation/d/1_kJX6bGN2CKCHj6UMicEXxQGF5qyCwTZZwVi4AmNGKY).
+- Der Bene ist aktiv im [Apache Commons-Projekt](https://commons.apache.org/proper/commons-lang/) und ist irgendwie so in das [SBT](https://github.com/sbt/sbt-header)-Projekt reingerutscht.
 - Wir hatten letztens ein [Training im Schreiben von Blogartikeln](http://www.schreibkonzepte.de/coaching/index.php). Sehr zu empfehlen.
 - [Merge oder Rebase](https://www.atlassian.com/git/tutorials/merging-vs-rebasing). Eine beliebte Diskussion unter Entwicklern. Vielleicht, unter Umständen, falls der Mond grad schlecht steht .... nicht immer eine zielführende Diskussion. Aber manchmal schon. Rebase.
 - [Hamcrest](http://hamcrest.org/) oder [AssertJ](http://joel-costigliola.github.io/assertj/)? Was sagt ihr?
-- The [NPM Maven Plugin](https://blogs.mulesoft.com/dev/mule-dev/introducing-the-npm-maven-plugin/) Kein Witz.
-- Wir brauchen einen [Twitch](https://www.twitch.tv/) Channel
+- The [NPM Maven Plugin](https://blogs.mulesoft.com/dev/mule-dev/introducing-the-npm-maven-plugin/). Kein Witz.
+- Wir brauchen einen [Twitch](https://www.twitch.tv/) Channel.
 
 Biere:
 
 - Der Bene hat sich in dieser Folge ein [Kona Big Wave Golden Ale](https://untappd.com/b/kona-brewing-company-big-wave-golden-ale/9657) vom Holger antragen lassen. Das Bier aus seinem Lieblingspodcast [Auf ein Bier](https://www.gamespodcast.de/): Typische aleig, würzig, hopfig.
-- Holger trinkt _endlich_ das [Chiemseer Helle](https://untappd.com/b/auerbrau-rosenheimer-spezialitatenbrauerei-chiemseer-hell/72326). Ein typisches Helles aus dem Epizentrum der Rosenheimer Bierkultur.
+- Holger trinkt _endlich_ das [Chiemseer Hell](https://untappd.com/b/auerbrau-rosenheimer-spezialitatenbrauerei-chiemseer-hell/72326). Ein typisches Helles aus dem Epizentrum der Rosenheimer Bierkultur.
 
 Datum der Aufnahme: 12.04.2017
