@@ -13,8 +13,8 @@ published: false
 ---
 
 Ja, das ist jetzt ja mal wieder eine Überraschung! Da täuschen wir eine Akka-Folge an und landen dann doch ganz woanders. Also ich glaube hauptsächlich wir sind überrascht. Völlig!
-Während wir also müde und matt auf der Couch gesessen und die neue Folge besprochen haben, fiel uns ein, dass wir kein hartes, faktenbasiertes, technisches Thema machen wollen. Sondern eher was weiches, menschelndes ... was zum Schwafeln halt. Und da sind wir wieder fast live aus dem Zentrum der IT in Düsseldorf-Friedrichstadt und sinnieren darüber: "Was treibt dich an". Warum geht ein Entwickler nach getaner Arbeit noch auf Meetups? Warum versenkt er seine Zeit in Open Source. Warum möchte er sich der Welt mitteilen? Warum holt er sich in endlosen Diskussionen immer wieder eine blutige Nase? Wir singen eine Ode an diese Entwickler!
-Darüber hinaus sind wieder immer noch von unserer neuen Hardware geflashed und machen eine atemberaubende Entdeckung!
+Während wir also müde und matt auf der Couch gesessen und die neue Folge besprochen haben, fiel uns ein, dass wir kein hartes, faktenbasiertes, technisches Thema machen wollen. Sondern eher was weiches, menschelndes ... was zum Schwafeln halt. Und da sind wir wieder fast live aus dem Zentrum der IT in Düsseldorf-Friedrichstadt und sinnieren darüber: "Was treibt dich an?" Warum geht ein Entwickler nach getaner Arbeit noch auf Meetups? Warum versenkt er seine Zeit in Open Source? Warum möchte er sich der Welt mitteilen? Warum holt er sich in endlosen Diskussionen immer wieder eine blutige Nase? Wir singen eine Ode an diese Entwickler!
+Darüber hinaus sind wir immer noch von unserer neuen Hardware geflashed und machen eine atemberaubende Entdeckung!
 
 Links:
 
