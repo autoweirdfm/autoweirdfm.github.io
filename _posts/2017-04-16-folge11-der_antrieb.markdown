@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Folge 11: Was treibt dich an?"
-date:   2017-04-16 16:00:00 +0100
+date:   2017-04-16 08:53:00 +0100
 categories: podcast
 permalink: /folge-11-was-treibt-dich-an/
 image: /assets/images/autoweirdfm_logo_500x500.png
@@ -9,7 +9,7 @@ podcast_link: https://s3.eu-central-1.amazonaws.com/autoweirdfm/podcasts/folge-1
 podcast_file_size: 52,5 MB
 podcast_duration: "38:11"
 podcast_length: 54999793
-published: false
+published: true
 ---
 
 Ja, das ist jetzt ja mal wieder eine Überraschung! Da täuschen wir eine Akka-Folge an und landen dann doch ganz woanders. Also ich glaube hauptsächlich wir sind überrascht. Völlig!
