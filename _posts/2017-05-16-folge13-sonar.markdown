@@ -1,0 +1,36 @@
+---
+layout: post
+title:  "Folge 13: Captain Sonar"
+date:   2017-05-16 19:17:00 +0100
+categories: podcast
+permalink: /folge-13-sonar/
+image: /assets/images/autoweirdfm_logo_500x500.png
+podcast_link: https://s3.eu-central-1.amazonaws.com/autoweirdfm/podcasts/folge-13-sonar.mp3
+podcast_file_size: 48,5 MB
+podcast_duration: "46:53"
+podcast_length: 67518507
+published: false
+---
+Die verflixte 13. Folge! Die fängt einfach so abrupt an, wie ne gute Rock'n'Roll Scheibe. Und wie wir da einsteigen: Zunächst muß sich Chaot und Freigeist Holger ordentlich vom Bene aka. Sheldon bashen lassen. Das hindert besagten Lebenskünstler aber nicht daran, vergnügt ein paar Anekdoten der JSConf zum besten zu geben: Eine Hippie Veranstaltung, für iMessage-Verweigerer ... und ein wenig JavaScript gabs da auch.
+Dann aber ging es auch schon los, mit unserem eigentlichen Thema: SonarQube. SonarQube ist ein Tool mit dem man Metriken für ein Projekt/Team sichtbar machen kann. Inbox-Zero und Inbox-Egal erzählen dann von ihren Erfahrungen und überraschen sich mal wieder gegenseitig. Natürlich wird das Für-und-wieder diskutiert. Aber am Ende der Folge sind wir uns überraschend einig, das wird euch umhauen!
+
+Links:
+
+- Holger war am Wochenende auf der [JSConf.eu](http://www.jsconf.eu) und war amazed.
+- Auf der JSConf gab es unter anderem Kaffee von einer meiner Lieblingskaffee-Läden: [The Barn](https://thebarn.de/).
+- Man konnte diesen Kaffee per SMS bestellen über einen Dienst namens [Twilio](https://www.twilio.com/)! Nice!
+- Videos von dieser Konferenz findet ihr zeitnah [hier](https://www.youtube.com/user/jsconfeu/featured). Auch den super Talk über SourceMaps.
+- Aber eigentlich geht es in dieser Folge aber um [SonarQube](https://www.sonarqube.org/)
+- Heisst das eigentlich SonarQube oder Sonar? SonarQube! Auf Sonar gab/gibt es ein Copyright. (http://sonarqube-archive.15.x6.nabble.com/SONAR-is-becoming-SONARQUBE-td5010134.html)
+- SonarQube verwendet intern Tools wie [Emma](http://emma.sourceforge.net/) oder [Cobertura](http://cobertura.github.io/cobertura/) zur Codecoverage.
+- Auch die von Holger so geliebte Package Cycle View hat sich Sonar nicht ausgedacht, sondern basiert auf [JDepend](https://github.com/clarkware/jdepend). Naja in Sonar sieht die schon etwas polierter aus: nämlich [so]( https://blog.sonarsource.com/fight-back-design-erosion-by-breaking-cycles-with-sonar/)
+- Ein Beispiel für Regeln (für Java) findet man [hier](https://www.sonarsource.com/why-us/products/codeanalyzers/sonarjava/rules.html)
+- Autoweird findet das Vorgehen Checks direkt an [Pull Request](https://help.github.com/articles/about-pull-requests/) durchzuführen und sichtbar zu machen gut. Tools, die wir da verwendem sind u.a. [Travis CI](https://travis-ci.org/), als Service für einen Build Server, [Codacy](https://www.codacy.com/) als Service für Review Tooling und [Coveralls](https://coveralls.io/), als Service für Code-Coverage.
+- Wir haben dann noch über das für und wieder von Lintern gesprochen, z.B. [ESLint](http://eslint.org/) und sind noch über das Tool [Prettier](https://github.com/prettier/prettier) gestolpert, welches die Codeformatierung für Javascript auf ein anderes Level heben kann.
+
+Biere:
+
+- Holger trinkt in Anlehnung an seinen Berlin Besuch und in Erinnerung an die [Mikkeller Bar](http://mikkeller.dk/location/mikkeller-berlin/) schwelgend, ein [Mikkeler Green Gold](https://untappd.com/b/mikkeller-green-gold/10137): Ein Gluten-freies IPA.
+- Bene hat ein sehr, sehr würziges [Jopen Doubting Thomas](https://untappd.com/b/jopen-ongelovige-thomas/51244) im Glas. Da muss er sich erstmal reintrinken.
+
+Datum der Aufnahme: 11.05.2017
