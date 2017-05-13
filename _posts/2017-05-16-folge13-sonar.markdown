@@ -25,12 +25,12 @@ Links:
 - SonarQube verwendet intern Tools wie [Emma](http://emma.sourceforge.net/) oder [Cobertura](http://cobertura.github.io/cobertura/) zur Code Coverage.
 - Auch die von Holger so geliebte Package Cycle View hat sich Sonar nicht ausgedacht, sondern basiert auf [JDepend](https://github.com/clarkware/jdepend). Naja in Sonar sieht die schon etwas polierter aus: nämlich [so]( https://blog.sonarsource.com/fight-back-design-erosion-by-breaking-cycles-with-sonar/).
 - Ein Beispiel für Regeln (für Java) findet man [hier](https://www.sonarsource.com/why-us/products/codeanalyzers/sonarjava/rules.html).
-- Autoweirdfm findet das Vorgehen gut, Checks direkt an [Pull Request](https://help.github.com/articles/about-pull-requests/) durchzuführen und sichtbar zu machen. Tools, die wir da verwendem sind u.a. [Travis CI](https://travis-ci.org/), als Service für einen Build Server, [Codacy](https://www.codacy.com/), als Service für Review Tooling und [Coveralls](https://coveralls.io/), als Service für Code-Coverage.
+- AutoweirdFM findet das Vorgehen gut, Checks direkt an [Pull Requests](https://help.github.com/articles/about-pull-requests/) durchzuführen und sichtbar zu machen. Tools, die wir da verwendem sind u.a. [Travis CI](https://travis-ci.org/), als Service für einen Build Server, [Codacy](https://www.codacy.com/), als Service für Review Tooling und [Coveralls](https://coveralls.io/), als Service für Code-Coverage.
 - Wir haben dann noch über das Für und Wider von Lintern gesprochen, z.B. [ESLint](http://eslint.org/), und sind noch über das Tool [Prettier](https://github.com/prettier/prettier) gestolpert, welches die Codeformatierung für Javascript auf ein anderes Level heben kann.
 
 Biere:
 
-- Holger trinkt in Anlehnung an seinen Berlin-Besuch und in Erinnerung an die [Mikkeller Bar](http://mikkeller.dk/location/mikkeller-berlin/) schwelgend, ein [Mikkeler Green Gold](https://untappd.com/b/mikkeller-green-gold/10137): Ein glutenfreies IPA.
+- Holger trinkt in Anlehnung an seinen Berlin-Besuch und in Erinnerung an die [Mikkeller Bar](http://mikkeller.dk/location/mikkeller-berlin/) schwelgend, ein [Mikkeler Green Gold](https://untappd.com/b/mikkeller-green-gold/10137): ein glutenfreies IPA.
 - Bene hat ein sehr, sehr würziges [Jopen Doubting Thomas](https://untappd.com/b/jopen-ongelovige-thomas/51244) im Glas. Da muss er sich erstmal reintrinken.
 
 Datum der Aufnahme: 11.05.2017
