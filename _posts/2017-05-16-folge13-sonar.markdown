@@ -21,11 +21,11 @@ Links:
 - Man konnte diesen Kaffee per SMS bestellen über einen Dienst namens [Twilio](https://www.twilio.com/)! Nice!
 - Videos von dieser Konferenz findet ihr zeitnah [hier](https://www.youtube.com/user/jsconfeu/featured). Auch den super Talk über SourceMaps.
 - Aber eigentlich geht es in dieser Folge aber um [SonarQube](https://www.sonarqube.org/)
-- Heisst das eigentlich SonarQube oder Sonar? SonarQube! Auf Sonar gab/gibt es ein Copyright. (http://sonarqube-archive.15.x6.nabble.com/SONAR-is-becoming-SONARQUBE-td5010134.html)
-- SonarQube verwendet intern Tools wie [Emma](http://emma.sourceforge.net/) oder [Cobertura](http://cobertura.github.io/cobertura/) zur Codecoverage.
+- Heisst das eigentlich SonarQube oder Sonar? SonarQube! Auf Sonar gab/gibt es ein [Copyright.](http://sonarqube-archive.15.x6.nabble.com/SONAR-is-becoming-SONARQUBE-td5010134.html)
+- SonarQube verwendet intern Tools wie [Emma](http://emma.sourceforge.net/) oder [Cobertura](http://cobertura.github.io/cobertura/) zur Code Coverage.
 - Auch die von Holger so geliebte Package Cycle View hat sich Sonar nicht ausgedacht, sondern basiert auf [JDepend](https://github.com/clarkware/jdepend). Naja in Sonar sieht die schon etwas polierter aus: nämlich [so]( https://blog.sonarsource.com/fight-back-design-erosion-by-breaking-cycles-with-sonar/)
 - Ein Beispiel für Regeln (für Java) findet man [hier](https://www.sonarsource.com/why-us/products/codeanalyzers/sonarjava/rules.html)
-- Autoweird findet das Vorgehen Checks direkt an [Pull Request](https://help.github.com/articles/about-pull-requests/) durchzuführen und sichtbar zu machen gut. Tools, die wir da verwendem sind u.a. [Travis CI](https://travis-ci.org/), als Service für einen Build Server, [Codacy](https://www.codacy.com/) als Service für Review Tooling und [Coveralls](https://coveralls.io/), als Service für Code-Coverage.
+- Autoweird findet das Vorgehen Checks direkt an [Pull Request](https://help.github.com/articles/about-pull-requests/) durchzuführen und sichtbar zu machen gut. Tools, die wir da verwendem sind u.a. [Travis CI](https://travis-ci.org/), als Service für einen Build Server, [Codacy](https://www.codacy.com/), als Service für Review Tooling und [Coveralls](https://coveralls.io/), als Service für Code-Coverage.
 - Wir haben dann noch über das für und wieder von Lintern gesprochen, z.B. [ESLint](http://eslint.org/) und sind noch über das Tool [Prettier](https://github.com/prettier/prettier) gestolpert, welches die Codeformatierung für Javascript auf ein anderes Level heben kann.
 
 Biere:
