@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Folge 13: Captain Sonar"
-date:   2017-05-16 19:17:00 +0100
+date:   2017-05-14 13:25:00 +0100
 categories: podcast
 permalink: /folge-13-sonar/
 image: /assets/images/autoweirdfm_logo_500x500.png
@@ -9,7 +9,7 @@ podcast_link: https://s3.eu-central-1.amazonaws.com/autoweirdfm/podcasts/folge-1
 podcast_file_size: 48,5 MB
 podcast_duration: "46:53"
 podcast_length: 67518507
-published: false
+published: true
 ---
 Die verflixte 13. Folge! Die fängt einfach so abrupt an, wie ne gute Rock'n'Roll Scheibe. Und wie wir da einsteigen: Zunächst muss sich Chaot und Freigeist Holger ordentlich vom Bene aka. Sheldon bashen lassen. Das hindert besagten Lebenskünstler aber nicht daran, vergnügt ein paar Anekdoten der JSConf zum besten zu geben: Eine Hippie Veranstaltung für iMessage-Verweigerer ... und ein wenig JavaScript gabs da auch.
 Dann aber ging es auch schon los, mit unserem eigentlichen Thema: SonarQube. SonarQube ist ein Tool, mit dem man Metriken für ein Projekt/Team sichtbar machen kann. Inbox-Zero und Inbox-Egal erzählen dann von ihren Erfahrungen und überraschen sich mal wieder gegenseitig. Natürlich wird das Für-und-wieder diskutiert. Aber am Ende der Folge sind wir uns überraschend einig, das wird euch umhauen!
