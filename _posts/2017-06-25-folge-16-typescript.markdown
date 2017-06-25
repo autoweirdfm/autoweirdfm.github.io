@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Folge 16: Typescript - Kompilier den Kram doch!"
+title:  "Folge 16: TypeScript - Kompilier den Kram doch!"
 date:   2017-06-25 16:15:00 +0100
 categories: podcast
 permalink: /folge16-typescript/
