@@ -25,7 +25,7 @@ Außerdem verrät Benedikt seine Protipps zum Erstellen von Präsentationen.
 
 - Wir sprechen natürlich mal wieder über [Cylce.js](https://cycle.js.org/) - in jedem guten Podcast kommt mindestens ein mal Cylce.js vor.
 - Entgegen anders lautender Behauptungen ist Cylce.js _nicht_ in [TypeScript](https://www.typescriptlang.org/) implementiert.
-- Ihr wollt Weißheiten über TypeScript hören? Hört euch die [letzte Folge](https://autoweirdfm.github.io/folge16-typescript/) an!
+- Ihr wollt Weisheiten über TypeScript hören? Hört euch die [letzte Folge](https://autoweirdfm.github.io/folge16-typescript/) an!
 - Hier das Video von [Benedikts Vortrag über Apache Commons](https://www.youtube.com/watch?v=eZB3P5VVIuc) auf der ApacheCON 2017.
 - Seid dabei und werdet einer von 35.000 anderen Fans indem ihr unserem [Twitter Account](https://twitter.com/autoweirdfm) folgt.
 
