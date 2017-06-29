@@ -32,4 +32,4 @@ Außerdem verrät Benedikt seine Protipps zum Erstellen von Präsentationen.
 # Bier
 
 Heute mussten wir uns an der Hotelbar bedienen, da Holgers Craft Beer leider warm ist.
-Dementsprechend gibt es uns beide ein [König Pilsener](https://untappd.com/b/konig-brauerei-konig-pilsener/7521).
+Dementsprechend gibt es für uns beide ein [König Pilsener](https://untappd.com/b/konig-brauerei-konig-pilsener/7521).
