@@ -9,7 +9,7 @@ podcast_link: https://s3.eu-central-1.amazonaws.com/autoweirdfm/podcasts/folge-1
 podcast_file_size: 44,9 MB
 podcast_duration: "46:44"
 podcast_length: 44871950
-published: false
+published: true
 ---
 
 Und noch eine Folge von der #cc_conf! Was sind wir produktiv! Leider hat die Postproduktion diesmal etwas mehr Zeit in Anspruch genommen - so haben wir glatt den 0:00-Uhr-Slot verpasst! Anyway!
@@ -24,6 +24,7 @@ Links:
 - Holger hat seine Daten früher oft in einer [AS400](http://m.ibm.com/http/www-03.ibm.com/systems/power/software/i/toolbox/) abgelegt. Da redet er aber nicht gerne drüber .
 
 Bier:
-Wir mussten uns noch mal an der Hotelbar bedienen und trinken um 13:59 ein König Pilsener.
+
+Wir mussten uns noch mal an der Hotelbar bedienen und trinken um 13:59 ein [König Pilsener](https://untappd.com/b/konig-brauerei-konig-pilsener/7521).
 
 Datum der Aufnahme: 1.7.2017
