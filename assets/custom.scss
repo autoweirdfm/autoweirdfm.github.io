@@ -18,3 +18,19 @@ audio {
   height: 30px;
   width: 100%;
 }
+
+.button-box {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  margin-bottom: 5px;
+
+  > a {
+    padding: 0 5px 0 5px;
+  }
+
+  > iframe {
+    padding: 0 5px 0 5px;
+  }
+}

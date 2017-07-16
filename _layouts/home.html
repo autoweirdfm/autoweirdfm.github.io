@@ -4,6 +4,13 @@ layout: default
 
 <div class="intro-text">
   {{ content }}
+
+  <div class="button-box">
+    <a href='{{ "/feed/podcast/feed.xml" | relative_url }}'><img src="/assets/images/feed-icon-28x28.png" alt=”subscribe via rss” /></a>
+    <a href="https://itunes.apple.com/de/podcast/autoweird-fm/id1180414602?mt=2" style="display:inline-block;overflow:hidden;background:url(//linkmaker.itunes.apple.com/assets/shared/badges/de-de/podcast-lrg.svg) no-repeat;width:133px;height:34px;background-size:contain;"></a>
+    <a href="https://twitter.com/Autoweirdfm" class="twitter-follow-button" data-size="large" data-show-count="false">Follow @Autoweirdfm</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+    <a class="github-button" href="https://github.com/autoweirdfm" data-size="large" aria-label="Follow @autoweirdfm on GitHub">Follow @autoweirdfm</a>
+  </div>
 </div>
 
 <div class="home">
@@ -23,3 +30,6 @@ layout: default
   </ul>
 
 </div>
+
+<!-- Place this tag in your head or just before your close body tag. -->
+<script async defer src="https://buttons.github.io/buttons.js"></script>
