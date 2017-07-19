@@ -3,7 +3,7 @@ layout: post
 title:  "Zwischenfolge 3: Zwei Leute und ein Wählscheibentelefon"
 date:   2017-07-19 17:23:00 +0100
 categories: podcast
-permalink: /folge20-zwischenfolge-3/
+permalink: /zwischenfolge-3/
 image: /assets/images/autoweirdfm_logo_500x500.png
 podcast_link: https://s3.eu-central-1.amazonaws.com/autoweirdfm/podcasts/zwischenfolge-3-Zwei_Leute_und_ein_Waehlscheibentelefon.mp3
 podcast_file_size: 28,4 MB
