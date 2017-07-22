@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Folge 20: Open Source as a Job (ft. Henning Treu)"
+title:  "Folge 20: @autoweird.fm investigativ: Open Source als Job (ft. Henning Treu)"
 date:   2017-07-23 11:00:00 +0100
 categories: podcast
-permalink: /folge20-open-source-as-a-job/
+permalink: /folge20-open-source-als-job/
 image: /assets/images/autoweirdfm_logo_500x500.png
 podcast_link: https://autoweirdfm.s3.amazonaws.com/podcasts/folge-20-open-source-as-a-job.mp3
 podcast_file_size: 49,7 MB
