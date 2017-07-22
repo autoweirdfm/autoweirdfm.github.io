@@ -15,9 +15,9 @@ published: false
 Open Source als Beruf - Traum oder... Ja was denn sonst? Natürlich ist das ein Traum!
 Dem wollen wir auf den Grund gehen.
 Und da wir bekanntlich nie wissen wovon wir reden, haben wir heute mal jemanden eingeladen, der weiß wovon er spricht.
-[Henning Treu](https://twitter.com/henningtreu) arbeitet als _Senior Developer Evangelist Connected Home_ (Was für ein Titel!)bei der Telekom und lebt diesen Traum:
-Er wird dafür bezahlt das Open Source Projekt [Eclipse Smart Home](http://www.eclipse.org/smarthome/) weiter zu entwickeln.
-Wie das alles so im Konzern Kontext funktioniert, wie sich seine Arbeit von der Arbeit des gemeinen Software Entwicklers unterscheidet und wie man im Dauer-Home-Office nicht verwahrlost, davon berichtet uns Henning in epischer Länge und Breite.
+[Henning Treu](https://twitter.com/henningtreu) arbeitet als _Senior Developer Evangelist Connected Home_ (Was für ein Titel!) bei der Telekom und lebt diesen Traum:
+Er wird dafür bezahlt, das Open-Source-Projekt [Eclipse Smart Home](http://www.eclipse.org/smarthome/) weiter zu entwickeln.
+Wie das alles so im Konzern-Kontext funktioniert, wie sich seine Arbeit von der Arbeit des gemeinen Software Entwicklers unterscheidet und wie man im Dauer-Home-Office nicht verwahrlost, davon berichtet uns Henning in epischer Länge und Breite.
 Außerdem behauptet der Bene, dass der Holger irgendwie sehr gehässig unterwegs war, dabei stimmt das doch gar nicht. Stimmt wohl!
 Hoffentlich möchte da überhaupt noch mal jemand als Gast dabei sein! Ich weiß nicht was du hast! Das ist mein scheiß Ring da!
 Aber natürlich bedanken wir uns ganz herzlich, dass Henning sich die Zeit genommen hat und uns Rede und Antwort stand. Das hat Bock gemacht!
