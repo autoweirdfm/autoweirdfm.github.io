@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Folge 21: Literarisches Duo - Softskills für Software Entwickler"
-date:   2017-08-06 10:40:00 +0100
+date:   2017-08-06 11:10:00 +0100
 categories: podcast
 permalink: /folge21-softskills-fuer-software-entwickler/
 image: /assets/images/autoweirdfm_logo_500x500.png
@@ -9,7 +9,7 @@ podcast_link: https://autoweirdfm.s3.amazonaws.com/podcasts/folge-21-softskills.
 podcast_file_size: 32,6 MB
 podcast_duration: "40:45"
 podcast_length: 34231644
-published: false
+published: true
 ---
 
 Die Folge im Schatten der grandiosen Henning-Folge. Und der Bene ist nicht gut drauf. Dabei sollte er sich doch freuen: Nachdem er den Holger ewig(!) genervt hat, doch mal aus den Puschen zu kommen und eine Folge über dieses Buch zu machen, ist es endlich soweit! Fanfare! In unserer langen Reihe des "Literarischen Duos" reden wir im heutigen zweiten Teil über das Buch "Soft Skills für Softwareentwickler" von Uwe Vigenschow und Björn Schneider. Ein Buch, welches Holger schon länger begleitet und das einen Rundumschlag über das Thema Softskills darstellt. In diesem Buch wird auch auf die vielen Eigenheiten, ja Schrulligkeiten, der Spezies Softwareentwickler eingegangen. Wir geben einen Überblick über dieses empfehlenswerte Buch und sprechen Themen wie aktives Zuhören oder Sender-Empfänger-Modelle an. Was ist denn eigentlich ein Extreme Extreme Entwickler? @autoweird.fm zeigt sich so mal wieder von der soften Seite und wir wenden auch die Techniken gar vorbildlich an. Mit schalen Flachwitzen wird ebenso nicht gespart; also beim Holger &ndash; der Bene verdreht die Augen wie ein Weltmeister.
