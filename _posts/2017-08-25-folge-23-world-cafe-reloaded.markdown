@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Folge 23: World Café Reloaded"
-date:   2017-08-25 12:4010:00 +0100
+date:   2017-08-25 12:35:00 +0100
 categories: podcast
 permalink: /folge23-world-cafe-reloaded/
 image: /assets/images/autoweirdfm_logo_500x500.png
