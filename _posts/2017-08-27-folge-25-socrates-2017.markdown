@@ -1,0 +1,43 @@
+---
+layout: post
+title:  "Folge 25: SoCraTes 2017 - is’ halt ‘ne Podcastfolge"
+date:   2017-08-27 18:57:00 +0100
+categories: podcast
+permalink: /folge25-socrates-2017/
+image: /assets/images/autoweirdfm_logo_500x500.png
+podcast_link: https://autoweirdfm.s3.amazonaws.com/podcasts/folge-25-socrates-2017.mp3
+podcast_file_size: 41,1 MB
+podcast_duration: "42:44"
+podcast_length: 41044727
+published: true
+---
+
+Da ist die SoCraTes auch schon wieder vorbei! Also als wir dieses schreiben. Da sitzen wir grad im Zug! Großartig wars, wir müssen uns immer noch ein wenig sammeln und das erlebte wirken lassen.
+Das mussten wir den Abend vorher auch schon, aber da wollen wir euch dran teilhaben lassen. Wir versuchen euch einen kleinen Eindruck zu geben, wie es denn so ist, auf der SoCraTes. Und Nein! wir werden jetzt nicht eine obskure Technologie nach der anderen abfeiern, so wie man das von uns kennt. Naja also fast keine ... ne also doch ein wenig.
+Aber es menschelt mal wieder bei @Autoweird. Wir erzählen auch die kleinen Geschichten am Rande (oder vielleicht auch im Kern?) der SoCraTes. Also @autoweird.fm Street-Team quasi.
+Wir schlagen einen weiten Bogen von BEAM zu Whisky Popcorn.  
+
+
+Leute! Das hat total Spaß gemacht! Vielen Dank an die Teilnehmer und die Orga von der SoCraTes! Thumbs up!
+
+Links:
+
+- Die Kaffeenerdelite war anwesend! Wir haben etwas über die [V60](https://www.kaffeebitte.de/handfilter/) gelernt.
+- T-Shirt kann man [so](https://www.youtube.com/watch?v=_i7iT8svj4M) schnell falten.
+- [BEAM](http://erlang.org/faq/implementations.html) ist die virtuelle Maschine für Erlang, Elixir usw. Also quasi deren JVM.
+- Checkt mal [Popcorn Attack](https://twitter.com/popcornberlin) aus. Lecker Popcorn! Mit Karamel und Whisky und so. Mit der ganzen Hand essen!
+- Der Bene hat mal richtig Bock auf [Rust](https://www.rust-lang.org/en-US/). Ist halt ne Programmiersprache
+- Der Holger hat das U-Boot Spiel Captain!Sonar! gezockt. Ist halt ein Brettspiel. Ein Großartiges!
+- [Keep talking and nobody explodes](http://www.keeptalkinggame.com/) haben wir dann nicht mehr gespielt. Sah aber richtig lustig aus.
+- Der Bene war auch Sternegucken. Da hat er einiges gesehen. Sternschnuppen und [Andromeda](https://de.wikipedia.org/wiki/Andromeda_(Sternbild)).
+- Der Holger kennt hier Bands! Rumänische gar! [Agathodaimon](https://de.wikipedia.org/wiki/Agathodaimon_(Band)) und [Powerwolf](https://de.wikipedia.org/wiki/Powerwolf).
+- Was der Bene vom Coding Game erzählt, erinnert den Holger an [Code Combat](https://codecombat.com).
+
+Bier:
+
+Nochmal eine Rutsche Dosenbier aus dem CraftBier Laden Holgers Vertrauens:
+
+- Für Holger gibts ein warmes, aber trotzdem sehr leckeres Double IPA. Das [Stone Ruination](https://untappd.com/b/stone-brewing-berlin-stone-ruination-double-ipa-berlin/1452728). Nen Double IPA halt.
+- Bene ist ja Prince Charming! Holger nicht! Deswegen gibt es für den Bene heute ein [Arrogant Bastard Ale](https://untappd.com/b/arrogant-brewing-arrogant-bastard-ale/18099) Muss auch mal gesagt werden. Der Bene ist halt kein IPA Typ.
+
+Datum der Aufnahme: 26.08.2017
