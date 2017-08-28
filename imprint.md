@@ -9,8 +9,8 @@ Kirchfeldstr. 163
 40215 Düsseldorf  
   
 Benedikt Ritter  
-Nordstraße.  
-Holzheim  
+Nordstr. 58  
+41472 Neuss
 
 ### Kontakt:
 Telefon: +49 (0) 0151 10 86 70 18  
@@ -22,8 +22,8 @@ Kirchfeldstr. 163
 40215 Düsseldorf  
 
 Benedikt Ritter  
-Nordstraße.  
-Holzheim  
+Nordstr. 58  
+41472 Neuss
 
 ### Haftung für Inhalte
 Als Diensteanbieter sind wir gemäß § 7 Abs.1 TMG für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich. Nach §§ 8 bis 10 TMG sind wir als Diensteanbieter jedoch nicht verpflichtet, übermittelte oder gespeicherte fremde Informationen zu überwachen oder nach Umständen zu forschen, die auf eine rechtswidrige Tätigkeit hinweisen.
