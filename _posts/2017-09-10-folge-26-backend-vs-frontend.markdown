@@ -9,7 +9,7 @@ podcast_link: https://s3.eu-central-1.amazonaws.com/autoweirdfm/podcasts/folge-2
 podcast_file_size: 47,8 MB
 podcast_duration: "52:14"
 podcast_length: 50166153
-published: false
+published: true
 ---
 
 @Autoweird.fm 2.0 noch kontroverser! Mehr Starkbier! Mehrere roten Fäden. Das ganze verpackt in einer (nennen wir es mal) ehrlichen Produktion. Das ist die Zukunft. Die logische Weiterentwicklung des Podcastens autoweirdscher Färbung. Oder haben wir uns einfach nur gnadenlos überschätzt beim Dienst am Hörer? Oder vertragen wir einfach doch kein Bier? Oder nur der Holger? Im Nachhinein nicht mehr wirklich zu sagen.
