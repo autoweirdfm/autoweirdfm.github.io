@@ -7,9 +7,9 @@ permalink: /zwischenfolge4-die-keynote/
 image: /assets/images/autoweirdfm_logo_500x500.png
 podcast_link: https://s3.eu-central-1.amazonaws.com/autoweirdfm/podcasts/zwischenfolge-4-die-keynote.mp3
 podcast_file_size: 53,6 MB
-podcast_duration: "46:52"
-podcast_length: 56234131
-published: false
+podcast_duration: "46:51"
+podcast_length: 56237640
+published: true
 ---
 
 Wir outen uns als Apple Fan-Boys! Also eigentlich wollten wir ja nur mal das Zoom H6 ausprobieren und nach 5 Minuten aufhören. Dann lief da plötzlich die Keynote! Von Apple! Und wir so: YEEEEEEAAAAAAHHHH!!!!!! Shut up and take my money!
