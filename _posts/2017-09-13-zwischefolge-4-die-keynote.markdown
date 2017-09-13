@@ -21,7 +21,6 @@ Links:
 - Das ist die [Keynote](https://www.apple.com/apple-events/september-2017/?cid=wwa-de-kwgo-features-slid---apple%20keynote-e-productid-&mnid=sWMJmUdzO-dc_mtid_20925fey39950_pcrid_220052343039_&muid=4d4010a3-5c44-4d34-aaf9-a49c23ebf3e1&mtid=20925fey39950&aosid=p238)
 - Das ist das [Ding](https://www.apple.com/de/iphone-x/)
 - Das ist das [Zoom Teil](https://www.zoom-na.com/products/field-video-recording/field-recording/h6-handy-recorder)
-Bier:
 - Das ist der [Shitstorm](https://github.com/autoweirdfm/autoweirdfm.github.io/issues/21)
 
 Bier
