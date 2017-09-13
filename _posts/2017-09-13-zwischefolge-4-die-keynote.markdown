@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Zwischenfolge 4:Die Keynote"
+title:  "Zwischenfolge 4: Die Keynote"
 date:   2017-09-13 09:12:00 +0100
 categories: podcast
 permalink: /zwischenfolge4-die-keynote/
