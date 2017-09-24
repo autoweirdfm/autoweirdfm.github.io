@@ -9,7 +9,7 @@ podcast_link: https://s3.eu-central-1.amazonaws.com/autoweirdfm/podcasts/folge-2
 podcast_file_size: 47,6 MB
 podcast_duration: "51:55"
 podcast_length: 49953507
-published: false
+published: true
 ---
 Jetzt ist es passiert! Wir schweifen komplett ab. Und stolpern vom Hölzken aufs Stöcksken! Ja das war so geplant! Jedenfalls so fast. Wie lange wir uns dann verquatschen, hat uns dann doch überrascht. Jedenfalls gibt es dieses Mal einen bunten Mix aus Konsolen-Zock, oder dessen Abwesenheit. Wir bewundern die wahren Helden der Neuzeit: Spiele-Entwickler und KI-Versteher! Der Bene staunt mal wieder über die Wunderwelt der JavaScript Bibliotheken. Wir wagen ein Experiment: Was passiert, wenn das Guava-Jar und das Commons-Lang-Jar gemeinsam nebeneinander im Classpath liegen? Werden nur noch verkohlte Byte-Code Übereste übrigbleiben? Oder kommen ganz viele kleine Commons-Guavas raus? Unklar! Dann nehmen wir uns Zettel und Stift und modellieren mal ein ordentliches Zeitkonzept ... in JavaScript.
 Zu guter Letzt gibt es dann noch einen Werbeblock: Der Bene präsentiert sein neues Gitlab T-Shirt und trägt dies stolz und ohne mit der Wimper zu zucken zu einer unpassenden Hose.
