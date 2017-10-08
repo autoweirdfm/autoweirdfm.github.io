@@ -3,7 +3,7 @@ layout: post
 title:  "Folge 28: Software Craftsmanship heißt jetzt Software Crafting"
 date:   2017-10-08 12:44:00 +0100
 categories: podcast
-permalink: /folge27-software-crafting/
+permalink: /folge28-software-crafting/
 image: /assets/images/autoweirdfm_logo_500x500.png
 podcast_link: https://s3.eu-central-1.amazonaws.com/autoweirdfm/podcasts/folge-28-software-crafting.mp3
 podcast_file_size: 40,4 MB
