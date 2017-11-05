@@ -9,7 +9,7 @@ podcast_link: https://s3.eu-central-1.amazonaws.com/autoweirdfm/podcasts/folge-3
 podcast_file_size: 56,5 MB
 podcast_duration: "58:48"
 podcast_length: 56470818
-published: false
+published: true
 ---
 
 Das @Autoweird.fm Street Team war mal wieder für den Hörer on the Road:
@@ -32,7 +32,7 @@ Links:
 - Zur Testpyramide findet sich natürlich [ein Eintrag in Martin Fowlers Bliki](https://martinfowler.com/bliki/TestPyramid.html).
 - Dieser Blogpost von Uncle Bob erklärt [Clean Architecture](https://8thlight.com/blog/uncle-bob/2012/08/13/the-clean-architecture.html).
 - Eng verwandt damit ist die [Hexagonal Architecture](http://alistair.cockburn.us/Hexagonal+architecture).
-- [Protractor](http://www.protractortest.org/#/) ist "end to end testing for Angular".
+- [Protractor](http://www.protractortest.org/#/) ist "end to end testing for Angular". Und oha Faux-Pas! Die Idee ist dass Protractor gegen die 'richtige' Anwendung läuft und nicht wie irgendwer behauptete gegen einen Mock ...
 - Jeder kennt es, keiner mag es - mit [Selenium](http://www.seleniumhq.org/) lassen sich UI Tests schreiben.
 - Vielleicht macht [Selenide](http://selenide.org/) den Schmerz etwas kleiner?
 - Mit Spring Boot macht das Testen dank [dediziertem Testsupport](https://spring.io/blog/2016/07/28/spring-boot-1-4-released#test-improvements) hingegen Spaß!
@@ -42,6 +42,6 @@ Links:
 Bier:
 
 - Holger trinkt ein [Bayrisch Hell](https://untappd.com/b/privatbrauerei-schweiger-1516-bayrisch-hell/1587313) von der Privatbrauerei Schweiger. Eine Spende von unserem Hörer Rainer. Vielen Dank dafür!
-- Benedikt hat geschmacksverirrungen und trink ein [John Malcom IPA](https://untappd.com/b/rewe-john-malcom-india-pale-ale-ipa/2010617) von REWE - was für eine Monströsität.
+- Benedikt hat Geschmacksverirrungen und trinkt ein [John Malcom IPA](https://untappd.com/b/rewe-john-malcom-india-pale-ale-ipa/2010617) von REWE - was für eine Monströsität.
 
 Datum der Aufnahme: 25.10.2017
