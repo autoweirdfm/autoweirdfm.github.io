@@ -37,26 +37,23 @@ Links:
 - Die volle Portion funktionale Programmierung bekommt ihr bei [Haskell](https://haskell-lang.org/). Das ist so funktional, da kann man noch nicht mal auf die Konsole schreiben!
 - Neben dem [Glasgow Haskell Compiler](https://www.haskell.org/ghc/) gibt es auch mal [Hugs 98](https://www.haskell.org/hugs).
 - [Seiteneffekte](https://de.wikipedia.org/wiki/Wirkung_%28Informatik%29) sind grundsätzlich Böse!
-- Phil Waddler => Catergory Theory
-- Burrito
-- Promises
-- Scala Either/Option/Try/List
-- Monadengesetze
-- Das Java Optional
-- https://www.infoq.com/presentations/Null-References-The-Billion-Dollar-Mistake-Tony-Hoare
-- Eric Meijer
-- RX
-- Frege
-- https://github.com/typelead/eta
-- Scala.io
-- Scala up North
-- https://bartoszmilewski.com/category/haskell/
-- https://underscore.io/books/advanced-scala/
-- https://underscore.io/books/shapeless-guide/
-- https://www.manning.com/books/functional-programming-in-scala
-
+- Phil Wadler ist ein Guru. Auch versteht er die [Catergory Theory](https://www.youtube.com/watch?v=V10hzjgoklA):
+- Monaden sind wie [Burritos](https://stllambdalounge.files.wordpress.com/2009/03/post_monads_lambdalounge_talk.pdf) oder auch [nicht](https://neoeinstein.github.io/monads-are-not-burritos/#/). Ihr habt doch alle keine [Ahnung]()https://byorgey.wordpress.com/2009/01/12/abstraction-intuition-and-the-monad-tutorial-fallacy/.
+- [Promises](https://developer.mozilla.org/de/docs/Web/JavaScript/Reference/Global_Objects/Promise) in JavaScript kennt ihr alle, oder?
+- In Scala gibt es die ganze Monadentüte [Either/Option/Try](http://blog.xebia.com/try-option-or-either/)/[List](https://stackoverflow.com/questions/35698485/how-is-list-a-monad)
+- Die [Monadengesetze](https://wiki.haskell.org/Monad_laws) sind ja gar nicht so schwer.
+- Das Java Optional ist gar keine Monade, naja fast. Aber [broken](https://developer.atlassian.com/blog/2015/08/optional-broken/).
+- Tony Hoare beging den [Million Dollar Mistake](https://www.infoq.com/presentations/Null-References-The-Billion-Dollar-Mistake-Tony-Hoare).
+- [Eric Meijer](https://en.wikipedia.org/wiki/Erik_Meijer_(computer_scientist)) hat es einfach drauf. Er hat z.B. [RX](http://reactivex.io/) erdacht oder [LINQ](https://de.wikipedia.org/wiki/LINQ)
+- Wenn man Haskell auf der JVM machen möchte, gibt es die Alternativen [Frege](https://github.com/Frege/frege), welches eine stark an Haskell angelehnte Sprache ist, oder [ETA](https://github.com/typelead/eta), welches eine Implementierung des [GHC](https://www.haskell.org/ghc/) auf dem JVM ist.
+)
+- Der Luka ist auf jeder Scala Konferenz z.B. auf der [Scala.io](https://scala.io/) oder der [Scala up North](http://scalaupnorth.com/).
+- [Bartosz Milewski](https://bartoszmilewski.com/category/haskell/) ist noch so ein Brain. Der kann Links wie Rechts. Haskell oder Quantenphysik? Bring it on!
+- Buchempfehlungen von Luka: 
+    - [Advanced Scala with Cats](https://underscore.io/books/advanced-scala/)
+    - [The Type Astronaut's Guide to Shapeless](https://underscore.io/books/shapeless-guide/)
+    - [The Red Book](https://www.manning.com/books/functional-programming-in-scala)
 - Das Hörertreffen anlässig des ersten Geburtstags von @Autoweird.fm findet am 25.11. im [Pechmarie](https://www.yelp.com/biz/pechmarie-düsseldorf-2) statt.
-- 
 
 Bier:
 
