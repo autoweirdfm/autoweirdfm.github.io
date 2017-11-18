@@ -58,10 +58,12 @@ Links:
 
 - Das Hörertreffen anlässig des ersten Geburtstags von @Autoweird.fm findet am 25.11. im [Pechmarie](https://www.yelp.com/biz/pechmarie-düsseldorf-2) statt.
 - 
+
 Bier:
 
-- https://untappd.com/b/birra-baladin-nora/1372
-- https://untappd.com/b/heroes-beer-co-hangry-donut-hopiscus-wheat/1999131
-- https://untappd.com/b/harviestoun-brewery-ola-dubh-16-year-special-reserve/13660
+- Als erstes haben wir ein, oder nein besser DAS Bier verkoststet, welches uns der Alex wärmstens empfohleb hat. [Nora](https://untappd.com/b/birra-baladin-nora/1372): Hammerbier 
+- Dann gabs es noch ein Hipsterbier: Ein Stout, gelagert in einem Faß in dem vorher 16 jähriger Macallan drin war. Überawesome! [Ola Dubh](https://untappd.com/b/harviestoun-brewery-ola-dubh-16-year-special-reserve/13660)
+- Am Ende haben wir noch ein schönes Weizen aus Hongkong angeteasert: Schön fruchtigweizig. [Das Hangry Donut](https://untappd.com/b/heroes-beer-co-hangry-donut-hopiscus-wheat/1999131)
+- 
 
 Datum der Aufnahme: 25.10.2017
