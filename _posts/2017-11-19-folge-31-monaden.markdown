@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Folge 31: Die legendäre Monadenfolge ft. Luka Jakobowitz"
-date:   2017-11-12 18:30:00 +0100
+title:  "Folge 31: Die legendäre Monadenfolge ft. Luka Jacobowitz"
+date:   2017-11-19 17:41:00 +0100
 categories: podcast
 permalink: /folge31-monaden/
 image: /assets/images/autoweirdfm_logo_500x500.png
@@ -9,7 +9,7 @@ podcast_link: https://s3.eu-central-1.amazonaws.com/autoweirdfm/podcasts/folge-3
 podcast_file_size: 59,3 MB
 podcast_duration: "1:14:00"
 podcast_length: 62171190
-published: false
+published: true
 ---
 Leute! Jetzt gibts was auf die Ohren. Meine Fresse ist das episch! Aber sowas von!
 Der großartige Luka (@lukajacobowitz) kommt plötzlich zur Tür rein und verbringt mit uns ein wenig Qualitäts-Monadenzeit. Falls ihr euch also immer schon gefragt habt, was das denn für ein Quatsch ist, von dem die Podcast-Gazellen in Minute 27 faseln, das ist eure Chance!
@@ -32,8 +32,6 @@ Links:
 - Cats ist vergleichbar mit [ScalaZ](https://github.com/scalaz/scalaz).
 - Monaden kommen in der [Category Theory](https://en.wikipedia.org/wiki/Category_theory). So richtig hat das aber noch keiner verstanden (nicht mal Luka!).
 - Eine [Monade](https://de.wikipedia.org/wiki/Monade_%28Informatik%29) ist letzten Endes eigentlich nur... also im Prinzip könnte man sagen... Ach, hört euch einfach die Folge an!
-- Die Karbonisierung
-- Blogposts über Blogposts über die Monadenerklärung
 - Die volle Portion funktionale Programmierung bekommt ihr bei [Haskell](https://haskell-lang.org/). Das ist so funktional, da kann man noch nicht mal auf die Konsole schreiben!
 - Neben dem [Glasgow Haskell Compiler](https://www.haskell.org/ghc/) gibt es auch mal [Hugs 98](https://www.haskell.org/hugs).
 - [Seiteneffekte](https://de.wikipedia.org/wiki/Wirkung_%28Informatik%29) sind grundsätzlich Böse!
@@ -57,9 +55,8 @@ Links:
 
 Bier:
 
-- Als erstes haben wir ein, oder nein besser DAS Bier verkoststet, welches uns der Alex wärmstens empfohleb hat. [Nora](https://untappd.com/b/birra-baladin-nora/1372): Hammerbier 
+- Als erstes haben wir ein, oder nein besser DAS Bier verkoststet, welches uns der Alex wärmstens empfohlen hat. [Nora](https://untappd.com/b/birra-baladin-nora/1372): Hammerbier 
 - Dann gabs es noch ein Hipsterbier: Ein Stout, gelagert in einem Faß in dem vorher 16 jähriger Macallan drin war. Überawesome! [Ola Dubh](https://untappd.com/b/harviestoun-brewery-ola-dubh-16-year-special-reserve/13660)
 - Am Ende haben wir noch ein schönes Weizen aus Hongkong angeteasert: Schön fruchtigweizig. [Das Hangry Donut](https://untappd.com/b/heroes-beer-co-hangry-donut-hopiscus-wheat/1999131)
-- 
 
-Datum der Aufnahme: 25.10.2017
+Datum der Aufnahme: 12.11.2017
