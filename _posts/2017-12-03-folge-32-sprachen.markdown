@@ -37,6 +37,7 @@ Links:
 - Stimmt, wir haben schonmal was über [Typescript](http://autoweird.fm/folge16-typescript/) erzählt.
 - Wir können das Buch [Seven Languages in Seven Weeks](https://pragprog.com/book/btlang/seven-languages-in-seven-weeks) empfehlen. Die sieben Wochen hält Holger für unrealistisch. Aber nur zu! :smile: Es gibt einen [zweiten Teil](https://pragprog.com/book/7lang/seven-more-languages-in-seven-weeks), mit etwas esoterischerer Sprachauswahl, ist aber auch gut. Die anderen Seven Things in Seven Weeks kennen wir nicht weiter. Könnt ihr da was empfehlen?
 - Benedikt hat sich vorgenommen [Rust](https://www.rust-lang.org/en-US/) zu lernen. Holger juckt es immer noch in den Fingern Prolog mal eine zweite Chance zu geben.
+- In letzter Sekunden noch der Link zum [Github Issue](https://github.com/autoweirdfm/autoweirdfm.github.io/issues/33).
 
 Bier:
 
