@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Folge 33: Der Copy and Paste Programmierer: Kopieren geht über Studieren"
-date:   2017-12-17 12:41:00 +0100
+date:   2017-12-17 11:35:00 +0100
 categories: podcast
 permalink: /folge33-copypaste/
 image: /assets/images/autoweirdfm_logo_500x500.png
@@ -9,7 +9,7 @@ podcast_link: http://autoweirdfm.s3.amazonaws.com/podcasts/folge-33-copypaste.mp
 podcast_file_size: 45,7 MB
 podcast_duration: "47:01"
 podcast_length: 45147764
-published: false
+published: true
 ---
 Heute kommt sie, die extra kontroverse Folge. Wir versuchen, die Aggression und Wut aus der Vorproduktion rüberzuretten in die Aufnahme. Doch macht das Mikro uns zu zahm? Aber immerhin haben wir zwei gegensätzliche Punkte! Das sind ja beste Voraussetzungen!
 
