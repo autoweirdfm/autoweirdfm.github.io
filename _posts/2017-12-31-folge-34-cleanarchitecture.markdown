@@ -28,6 +28,7 @@ Links:
 - [Kafka](https://kafka.apache.org/) und [Consul](https://www.consul.io/) sind nicht in dem Buch enthalten.
 - Es geht auch um den großen Begriff der [Komponente](https://de.wikipedia.org/wiki/Komponente_(Software)).
 - Der Bene empfiehlt das Buch [Java Application Architecture](https://www.amazon.com/Java-Application-Architecture-Modularity-Patterns/dp/0321247132). Komponenten (in Java) werden hier gut motiviert.
+- Das Issue zu der Folge findet ihr [hier](https://github.com/autoweirdfm/autoweirdfm.github.io/issues/36).
 
 
 Bier:
