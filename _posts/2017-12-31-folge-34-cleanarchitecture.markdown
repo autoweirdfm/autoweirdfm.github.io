@@ -9,7 +9,7 @@ podcast_link: https://s3.eu-central-1.amazonaws.com/autoweirdfm/podcasts/folge-3
 podcast_file_size: 45,1 MB
 podcast_duration: "46:04"
 podcast_length: 44262517
-published: false
+published: true
 ---
 Pünktlich zum Jahreswechsel kommt - einem Silvesterknaller gleich - die 34. Folge autoweird.fm.
 Wir täuschen geschickt eine Silverstergala an, aber da Helene Fischer grad keine Zeit hatte, holt der Bene zum Jahresende noch mal ein Dickschiff aus dem Bücherregal. Apropos Gala, apropos Red, aporopos Bunte: Der Holger berichtet stolz wie Bolle von seinem Rockstar-Moment. Wahrscheinlich zerstört er gerade schon Hotelzimmer. Plural. 
