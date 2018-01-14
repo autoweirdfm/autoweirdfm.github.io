@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Folge 35: MURCS ist Scrum in Rückwärts"
-date:   2017-01-14 15:35:00 +0100
+date:   2018-01-14 15:35:00 +0100
 categories: podcast
 permalink: /folge35-murcs/
 image: /assets/images/autoweirdfm_logo_500x500.png
