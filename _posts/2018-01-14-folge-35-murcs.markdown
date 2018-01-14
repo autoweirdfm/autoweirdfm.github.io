@@ -1,0 +1,36 @@
+---
+layout: post
+title:  "Folge 35: MURCS ist Scrum in Rückwärts"
+date:   2017-01-14 15:35:00 +0100
+categories: podcast
+permalink: /folge35-murcs/
+image: /assets/images/autoweirdfm_logo_500x500.png
+podcast_link: https://s3.eu-central-1.amazonaws.com/autoweirdfm/podcasts/folge-35-murcs.mp3
+podcast_file_size: 43,1 MB
+podcast_duration: "44:09"
+podcast_length: 42423356
+published: true
+---
+Der Röhrenmonitor brimmt! Willkommen im Jahr 2018! Und wir legen direkt wieder los: Wir suhlen uns zunächst mal in 80er-Jahre Technikromantik. Damals war auch wirklich noch alles besser! Tapes sind unzweifellos das beste Speichermedium. Nuffsaid. 
+
+Kurz bevor wir einen Leserbrief an die [Happy Computer](https://de.wikipedia.org/wiki/Happy_Computer) schreiben, kriegen wir dann doch noch die Kurve zu einem aktuelleren Thema. In der heutigen Folge befassen wir uns mit der Kritik an Agilität im Allgemeinen und Scrum im Besonderen (z.B. [hier](https://twitter.com/dan_abramov/status/945073584753594368)). Wir halten uns streng an die Fakten und analysieren streng formal - heißt: Wir mutmaßen wie blöde, setzen Kontexte und  intepretieren wie es uns passt. Irgendwie sind wir schon Scrum-Fans, so Kritik von irgendwelchen dahergelaufenen Superhelden lässt uns auch nicht kalt, da müssen wir drauf reagieren.
+Wie Donkey Kong machen wir bis kurz vor Schluss noch fröhlich neue Fässer auf. So strukturiert wie immer. Vom Hölzken aufs Stöcksken, wie man im Sauerland sagt.
+
+Links:
+- Gibt es eigentlich irgendjemanden, der niemals nie eine [Datasette](https://de.wikipedia.org/wiki/Datasette) bedient hat? Ach stimmt! Der Bene!
+- Holger zockte ganz füher [Jetpac](https://www.youtube.com/watch?v=9Hy29KoBnGY) auf seinem [ZX-Spectrum](https://de.wikipedia.org/wiki/Sinclair_ZX_Spectrum).
+- Apropos Retro-Computing: Der Daniel [restauriert](http://www.danielschneller.com/2017/12/amiga-500-restoration.html) grad mit viel [Körpereinsatz](http://www.danielschneller.com/2018/01/amiga-500-restoration-retrobrighting-i.html) die Hipster-Variante des C64, einen waschechten Amiga 500. Wir ziehen den Hut und summen unsere Lieblings-Chris-Hülsbeck-Tunes.
+- Wir sind Social Media technisch ganz vorne dabei und haben einen [Account](https://www.instagram.com/autoweirdfm/) bei einem frischen neuen Startup namens Instagram - oder Insta wie der Kenner sagt! Den [Jodel](https://de.wikipedia.org/wiki/Jodel_(App)) Account gibt es (noch) nicht.
+- Wer ist denn eigentlich [Dan Abramov](https://twitter.com/dan_abramov?lang=de)? Ein Core-Entwickler von React und Redux und Create-React-App und React Hot Reloading und ... ein super Typ.
+- Aber er kennt [Scrum](https://twitter.com/dan_abramov/status/945073584753594368) nicht, was ist da los?
+- Die FAQ von der wir reden findet sich [hier](https://dev.to/dan_abramov/react-beginner-question-thread--1i5e). Lesenswert. 
+- [Austin Powers meets Scrum](https://i.stack.imgur.com/mqxMR.png).
+- [Netflix mag keine Prozesse](https://twitter.com/RichRogersIoT/status/948735867446808576).
+- [Netflix wirbt Talente ab](https://twitter.com/matthewpskelton/status/657153698943119361?lang=de).
+- Funktioniert Scrum in Open-Source-Projekten? Der Henning hat [da](http://autoweird.fm/folge20-open-source-als-job/) schon mal was erzählt. 
+- [Link](https://github.com/autoweirdfm/autoweirdfm.github.io/issues/37) zum Github-Issue.
+
+Bier:
+- Heute gibt es mal was Selbstgebrautes! Also nicht von uns, sondern eine selbstgebraute Bierspende von Holgers Schwager. Der hat, wie es sich gehört, eine Brauanlage im Keller! Wir verkosten heute ein schönes Chilli-Schokoladen-Stout. Es nennt sich Stoutsch! (versteht ihr? versteht ihr? hihi!). Lecker! Danke Peter! 
+
+Datum der Aufnahme: 08.01.2018
