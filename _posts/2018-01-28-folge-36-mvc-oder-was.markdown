@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Folge 36: MVC oder was?"
-date:   2018-01-28 13:15:00 +0100
+date:   2018-01-28 12:00:00 +0100
 categories: podcast
 permalink: /folge36-mvc/
 image: /assets/images/autoweirdfm_logo_500x500.png
