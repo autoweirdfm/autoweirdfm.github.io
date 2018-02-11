@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Folge 37: Wunschkonzert Teil1 - Die Gefährten"
+title:  "Folge 37: Wunschkonzert Teil 1 - Die Gefährten"
 date:   2018-02-11 16:00:00 +0100
 categories: podcast
 permalink: /folge37-wunschkonzert/
