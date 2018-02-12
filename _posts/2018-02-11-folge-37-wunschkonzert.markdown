@@ -40,7 +40,7 @@ Links:
 - Es gibt tausende Zertifikate. Hier die [Beliebtesten](http://www.gocertify.com/certifications/index.html). Laut einer Zertifikatswebsite.
 - [Coursera](https://www.coursera.org/), [edx](https://www.edx.org/), [Udemy](https://www.udemy.com/) sind Anbieter von Online (Uni) Kursen.
 - [egghead.io](https://egghead.io/) ist auch ein Onlinekursanbieter. Aber egghead bietet keine Prüfungen.
-- Bene und Holger haben beide diesen tollen Kurs belegt [Functional programming princiciples in Scala](https://www.coursera.org/learn/progfun1).
+- Bene und Holger haben beide diesen tollen Kurs belegt [Functional programming principles in Scala](https://www.coursera.org/learn/progfun1).
 - Puuh Links auf unsere Lieblingstools:
 - [IntelliJ](https://www.jetbrains.com/idea/)
 - [Atom](https://atom.io/)
