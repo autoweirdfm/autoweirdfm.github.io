@@ -65,6 +65,7 @@ https://github.com/cucumber/cucumber-js/blob/master/docs/support_files/world.md
 - [Flow](https://flow.org/) ist ein static type checker für JavaScript.
 - Der Bene liest das [Scala Red Book](https://www.manning.com/books/functional-programming-in-scala). Wir erwarten Großes!
 - [Functional Sets](http://shirleyisnotageek.blogspot.de/2015/09/scala-note-2-functional-sets.html) sind ein spannender Weg, über Sets nachzudenken.
+- [Link](https://github.com/autoweirdfm/autoweirdfm.github.io/issues/42) zum Github Issue.
 
 Bier:
 
