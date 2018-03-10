@@ -41,7 +41,7 @@ Links:
 - [Augmented Reality](https://de.wikipedia.org/wiki/Erweiterte_Realit%C3%A4t): Die Realität erweitern. Abgefahren!
 - Mit der [Unity Engine](https://unity3d.com/de) kann man nicht nur Spiele machen!
 - [Deep Learning](https://de.wikipedia.org/wiki/Deep_Learning) ist eine Unterklasse von [Machine Learning](https://de.wikipedia.org/wiki/Deep_Learning).
-- [John Carmack](https://de.wikipedia.org/wiki/John_Carmack) - der Macher von [Doom](https://de.wikipedia.org/wiki/Doom) [hackt einfach mal sein eigenes neuronales Netz]( https://www.facebook.com/permalink.php?story_fbid=2110408722526967&id=100006735798590)
+- [John Carmack](https://de.wikipedia.org/wiki/John_Carmack) - der Macher von [Doom](https://de.wikipedia.org/wiki/Doom) [hackt einfach mal sein eigenes neuronales Netz]( https://www.facebook.com/permalink.php?story_fbid=2110408722526967&id=100006735798590).
 - Mit [Tensorflow](https://www.tensorflow.org/) wird Machine Learning einfach.
 - Das geht auch mit JavaScript (natürlich): [Deeplearn.js](https://deeplearnjs.org/)
 - Das [JavaScript Drinking Game](https://github.com/FrankPetrilli/js-drinking). Prost!
