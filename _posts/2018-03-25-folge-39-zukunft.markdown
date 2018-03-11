@@ -1,15 +1,15 @@
 ---
 layout: post
 title:  "Folge 39: Haben wir die Zukunft verpennt?"
-date:   2018-03-11 12:00:00 +0100
+date:   2018-03-11 17:06:00 +0100
 categories: podcast
 permalink: /folge39-zukunft/
 image: /assets/images/autoweirdfm_logo_500x500.png
-podcast_link: http://autoweirdfm.s3.amazonaws.com/podcasts/folge-39-zukunft.mp3
-podcast_file_size: 52,6 MB
-podcast_duration: "54:52"
-podcast_length: 5226879
-published: false
+podcast_link: https://autoweirdfm.s3.amazonaws.com/podcasts/folge-39-zukunft-verpennt.mp3
+podcast_file_size: 54,3 MB
+podcast_duration: "59:15"
+podcast_length: 56893573
+published: true
 ---
 Haben wir zuviel Blade Runner geguckt? Haben wir grad einen Newsletter von Cyberdyne System bekommen?
 Man weiß es nicht!
@@ -17,10 +17,10 @@ Man weiß es nicht!
 Aus Gründen kommen die beiden Podcast-Gazellen zu dem Eindruck: "Wir haben die Zukunft verpennt!" Nooooo!
 
 Aber bevor wir zu diesem Schluß kommen, dürft ihr uns bei den bisher epischsten "Hausmitteilungen" beiwohnen.
-"Hausmitteilungen" -  Was ist das überhaupt für ein Wort?! Das riecht doch schon nach verstaubtem Aktenordnern und Rohrpost. Das ist halt unsere Welt!
+"Hausmitteilungen" - Was ist das überhaupt für ein Wort?! Das riecht doch schon nach verstaubtem Aktenordnern und Rohrpost. Das ist halt unsere Welt!
 
 Kein Wunder, dass wir so vom Hype Cycle regelrecht überrollt werden!
-Sind Blockchain, AI, Serverless und co. die Zukunft? Schon Gegenwart? Ist Software-Crafting dann total wertlos?
+Sind Blockchain, AI, Serverless und co. die Zukunft? Schon Gegenwart? Ist Software Crafting dann total wertlos?
 Ist unsere Verzweiflung gerechtfertigt, oder heulen wir einfach nur mal wieder grundlos rum? Warum haben Bene und Holger eigentlich die Bilderkennungsvorlesung geschwänzt? Mal wieder Fragen über Fragen.
 Die Antwort findet ihr vielleicht in dieser Folge!
 
@@ -51,7 +51,7 @@ Links:
 
 Bier:
 
-Der Bene hat Bier aus Kapeverde mitgebracht: 
+Der Bene hat Bier aus Kap Verde mitgebracht: 
 - Ein [Strela](https://untappd.com/b/ceris-strela/153136): Ein schönes Strandbier. Keine Ecken und Kanten, rutscht also gut rein.
 - Ein [Strela Ego](https://untappd.com/b/ceris-strela-ego/327630): Ein Starkbier mit 8%. Deutlich gehaltvoller. Lecker! 
 
