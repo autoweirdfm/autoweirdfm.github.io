@@ -28,7 +28,7 @@ Links:
 - Wir wurden Zeuge der [Deutschen Pokemon Meisterschaft](https://www.unperfekthaus.de/projekte/team-calyptus). Hmmmm....
 - Folgender [DJ Controller](https://www.musicstore.de/de_DE/EUR/Behringer-CMD-PL-1-Deck-Based-MIDI-Module/art-DJE0004644-000) wurde von uns verstöpselt! 
 - Mit dem [Website Builder Wix](https://de.wix.com/) (Hihi!) kann man sehr einfach tolle Webseiten bauen. Der Name hingegegen ist für den deutschen Markt ... nunja. Wir sind halt Spießer!
-- Ähnlich erging es <del>Toyota</del>Mitsubishi mit dem [Pajero|(https://de.wikipedia.org/wiki/Mitsubishi_Pajero). [SFW](https://www.n-tv.de/auto/Unterwegs-im-Scheisshaufen-article5547956.html)
+- Ähnlich erging es <del>Toyota</del>Mitsubishi mit dem [Pajero](https://de.wikipedia.org/wiki/Mitsubishi_Pajero). [SFW](https://www.n-tv.de/auto/Unterwegs-im-Scheisshaufen-article5547956.html)
 - [Jekyll](https://jekyllrb.com/) gibts auch noch.
 - Das [Github Issue](https://github.com/autoweirdfm/autoweirdfm.github.io/issues/46).
 
