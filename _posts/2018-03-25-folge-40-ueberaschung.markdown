@@ -5,7 +5,7 @@ date:   2018-03-25 21:30:00 +0100
 categories: podcast
 permalink: /folge40-ueberraschung/
 image: /assets/images/autoweirdfm_logo_500x500.png
-podcast_link: http://autoweirdfm.s3.amazonaws.com/podcasts/folge-40-ueberraschungsfolge.mp3
+podcast_link: https://autoweirdfm.s3.amazonaws.com/podcasts/folge-40-ueberraschungsfolge.mp3
 podcast_file_size: 45,0 MB
 podcast_duration: "46:11"
 podcast_length: 44360731
