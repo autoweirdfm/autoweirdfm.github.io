@@ -3,7 +3,7 @@ layout: post
 title:  "Folge 40: Die Überraschungsfolge"
 date:   2018-03-25 20:06:00 +0100
 categories: podcast
-permalink: /folge40-überraschung/
+permalink: /folge40-ueberraschung/
 image: /assets/images/autoweirdfm_logo_500x500.png
 podcast_link: https://autoweirdfm.s3.amazonaws.com/podcasts/folge-40-ueberraschungsfolge.mp3
 podcast_file_size: 45 MB
