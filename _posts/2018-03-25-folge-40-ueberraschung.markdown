@@ -1,14 +1,14 @@
 ---
 layout: post
 title:  "Folge 40: Die Überraschungsfolge"
-date:   2018-03-25 21:30:00 +0100
+date:   2018-03-25 20:06:00 +0100
 categories: podcast
-permalink: /folge40-ueberraschung/
+permalink: /folge39-zukunft/
 image: /assets/images/autoweirdfm_logo_500x500.png
-podcast_link: https://autoweirdfm.s3.amazonaws.com/podcasts/folge-40-ueberraschungsfolge.mp3
-podcast_file_size: 45,0 MB
-podcast_duration: "46:11"
-podcast_length: 44360731
+podcast_link: https://autoweirdfm.s3.amazonaws.com/podcasts/folge-39-zukunft-verpennt.mp3
+podcast_file_size: 54,3 MB
+podcast_duration: "59:15"
+podcast_length: 56893573
 published: true
 ---
 Wir wollten wirklich über das Thema reden! Wirklich! Versprochen! Aber wir wollten auch das andere Thema nicht links liegen lassen und wir wollten nur eine Minute länger darüber reden. Kann ja keiner ahnen, dass das länger als ne Minute wird. Also wir zumindest nicht! Ist ja auch noch nie vorgekommen! Glauben wir zumindest.
