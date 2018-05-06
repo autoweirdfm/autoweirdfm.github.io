@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Folge 43: literarisches Duo: Building Evolutionary Architectures"
+title:  "Folge 43: Literarisches Duo: Building Evolutionary Architectures"
 date:   2018-05-06 18:00:00 +0100
 categories: podcast
 permalink: /folge43-evolutionary-architectures/
