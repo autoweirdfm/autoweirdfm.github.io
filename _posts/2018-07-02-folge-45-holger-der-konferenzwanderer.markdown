@@ -9,7 +9,7 @@ podcast_link: http://autoweirdfm.s3.amazonaws.com/podcasts/folge-45-konferenzwan
 podcast_file_size: 53,5 MB
 podcast_duration: "01:03:40"
 podcast_length: 53504772
-published: false
+published: true
 ---
 
 Sind wir jetzt noch in der Sommerpause, oder noch im Urlaubsmodus? Man weiß es nicht! :) Aber wir waren in der letzten Zeit nicht untätig! Der Bene ist jetzt auf dem besten Weg [Star-Youtuber](https://www.youtube.com/watch?v=oL7YvHlOQzw&list=PLD9VybHH2wnY6AdGpGinjwzq5brwRn85K) zu werden!
@@ -36,6 +36,7 @@ Links:
 - Der [Call for Papers](https://www.javaland.eu/de/referenten/referent-werden/) für die [JavaLand](https://www.javaland.eu/de/home/) ist offen!
 - Ach so: Holgers Talk auf der EnterJS war [dieser](https://www.enterjs.de/single?id=6712&jest%3A-frontend-testing-richtig-gemacht) mit diesen [Slides](https://de.slideshare.net/holgergp/jest-frontend-testing-leicht-gemacht-enterjs2018). Auf der DWX war es [dieser](https://www.developer-week.de/programm/#/talk/das-frontend-richtig-testen-mit-jest) mit diesen [Slides](https://de.slideshare.net/holgergp/das-frontend-richtig-testen-mit-jest-developer-week-2018).
 - Es ging übrigens um die tolle Testbibliothek [Jest](https://jestjs.io/).
+- Das [Github Issue](https://github.com/autoweirdfm/autoweirdfm.github.io/issues/52) zur Folge.
 
 Bier:
 
