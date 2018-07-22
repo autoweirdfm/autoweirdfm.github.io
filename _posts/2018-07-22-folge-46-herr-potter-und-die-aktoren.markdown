@@ -32,9 +32,9 @@ Links:
 - @Autoweird.fm empfiehlt für’s Podcast hören [Overcast](https://overcast.fm/).
 - [Akka](https://akka.io/) ist von [Lightbend](https://www.lightbend.com/).
 - Benedikt hat Akka von [Heiko Seeberger](https://twitter.com/hseeberger?lang=de) gelernt.
-- Das Aktmodell geht auf Gul Abdulnabi Agha zurück, der dies im Rahmen seiner [Dissertation](https://dspace.mit.edu/handle/1721.1/6952) entwickelt hat.
+- Das Aktormodell geht auf Gul Abdulnabi Agha zurück, der dies im Rahmen seiner [Dissertation](https://dspace.mit.edu/handle/1721.1/6952) entwickelt hat.
 - Mit [Erlang](https://www.erlang.org/) hat das Aktormodell Verbreitung gefunden.
-- [Akku Typed](https://doc.akka.io/docs/akka/2.5/typed/index.html) ist Akka mit besserer Typisierung.
+- [Akka Typed](https://doc.akka.io/docs/akka/2.5/typed/index.html) ist Akka mit besserer Typisierung.
 - [Akka Persistence](https://doc.akka.io/docs/akka/2.5/persistence.html) erweitert Akka um den PersistentActor.
 - [Akka HTTP](https://doc.akka.io/docs/akka-http/current/) ist eine DSL, um HTTP-basierte Anwendungen zu schreiben.
 - [Lagom](https://www.lagomframework.com/) ist ein Framework basierend auf Akka, welches im Microservice-Umfeld Verwendung findet.
