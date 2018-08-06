@@ -44,6 +44,7 @@ Links:
 - [Martin Fowler](https://martinfowler.com/) hat [Refactoring](https://www.amazon.de/Refactoring-Improving-Design-Existing-Technology/dp/0201485672/ref=sr_1_1?ie=UTF8&qid=1533484768&sr=8-1&keywords=refactoring) geschrieben. Davon soll es bald eine neue Edition geben mit JavaScript Beispielen.
 - Für Elixir gibt es das Tool [doctest](https://elixir-lang.org/getting-started/mix-otp/docs-tests-and-with.html) mit dem man über die Dokumentation einer Methode direkt testen kann.
 - Corey Haines hat mal [was schlaues gesagt](http://blog.coreyhaines.com/2009/02/getting-it-done-vs-doing-it-right.html), was Bene in der Folge aber nicht mehr richtig zusammen bekommt. Lest lieber selbst...
+- Das [Github Issue](https://github.com/autoweirdfm/autoweirdfm.github.io/issues/54) zur Folge.
 
 Bier:
 
