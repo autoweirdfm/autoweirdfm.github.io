@@ -41,7 +41,7 @@ Links:
 - Unsere Lieblingband [Juli](https://www.youtube.com/watch?v=KyMT8MDaxqo).
 - In Minute 47 fangen wir für gewöhnlich an [Monaden Transformer](http://eed3si9n.com/herding-cats/monad-transfomers.html) zu reden
 - Benedikt hat in der Uni noch das [V-Modell XT](https://de.wikipedia.org/wiki/V-Modell_(Entwicklungsstandard)#V-Modell_XT) und [CORBA](https://de.wikipedia.org/wiki/Common_Object_Request_Broker_Architecture) kennen gelernt.
-- Das [Github Issue zur Folge]([Github Issue](https://github.com/autoweirdfm/autoweirdfm.github.io/issues/56)).
+- Das [Github Issue zur Folge](https://github.com/autoweirdfm/autoweirdfm.github.io/issues/56).
 
 Bier:
 
