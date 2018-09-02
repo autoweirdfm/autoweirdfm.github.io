@@ -1,0 +1,53 @@
+---
+layout: post
+title:  "Folge 49: Der PO - Das unbekannte Wesen!"
+date:   2018-09-02 18:00:00 +0100
+categories: podcast
+permalink: /folge49-po/
+image: /assets/images/autoweirdfm_logo_500x500.png
+podcast_link: http://autoweirdfm.s3.amazonaws.com/podcasts/folge-48-software-crafting-pt2.mp3
+podcast_file_size: 59 MB
+podcast_duration: "01:00:50"
+podcast_length: 58425826
+published: false
+---
+Es brummt! Nicht! Mehr! Wir sitzen im schönen Holzheim und wir können unser volles Equipment auffahren! Bäm! Marcel Reifs Erben sind jetzt auch in Holzheim am Start!
+
+Heute gibt es ein Thema, welches auf der Fast Lane auf Platz 1 unserer Trello-Liste gelandet ist.
+Es geht mal wieder um agile Themen! Heute diskutieren wir die Rolle des Product Owners!
+Was macht der eigentlich? Sieht man dann als Entwickler den Fachbereich überhaupt noch? Oder nur noch den PO? 
+Kann der PO einen Compiler bedienen? Muss er das vielleicht gar nicht?
+Ist der PO ein Projektleiter? Braucht man dann noch nen Scrum-Master, wenn man schon so nen Agilisten am Start hat? 
+Bene und Holger stellen schnell fest, dass sie in letzter Zeit andere Erfahrungen mit dieser Rolle gemacht haben! Dramatische Musik! Es ziehen drohende Gewitterwolken auf! Werden die Podcast-Gazellen hier heil raus kommen?
+
+Links:
+
+- Wir verwenden das [Zoom H6](https://www.thomann.de/de/zoom_h6.htm) und das [Superlux HMC 660](https://www.thomann.de/de/superlux_hmc_660_x.htm). Jetzt auch in Holzheim.
+- [Voll Normal](https://de.wikipedia.org/wiki/Voll_normaaal) ist ein legendärer Film! Voller legendärer Szenen.
+- Der [Stay Forever Podcast](https://www.stayforever.de/) ist voller popkultureller Referenzen. Sollen wir das auch mal machen?
+- Das [agile Manifest](http://agilemanifesto.org/history.html)! Nicht in den Alpen entstanden! Sondern in Utah!
+- Heute geht es um die Rolle des [Product Owners (PO)](http://scrum-master.de/Scrum-Rollen/Scrum-Rollen_Product_Owner).
+- Christian (https://twitter.com/prisochr) ist Benedikts PO Vorbild
+- Das [Planning 2](https://blog.borisgloger.com/2013/01/21/bastelecke-sprint-planning-2/) ist ein Meeting, in dem es darum geht, das "Wie" einer User Story zu klären.
+- Wir reden auch über die [Stakeholderanalyse](https://www.openpm.info/display/openPM/Stakeholderanalyse).
+- Bene hat das Tool [ProductPlan](https://www.productplan.com/) kennengelernt.
+- Die [Terraform](https://www.terraform.io/)-Skripte für den Autoweird-Umzug liegen bereit.
+- Schweden ist ja eher bekannt für Death Metal als für Black Metal, [Marduk](https://de.wikipedia.org/wiki/Marduk_(Band)) ist aber einer der bekannteren Black Metal Bands. [Mando Diao](https://de.wikipedia.org/wiki/Mando_Diao) sind aber bekannter. Aber nicht so gut. Wie das immer so ist.
+- [Das Github Issue dieser Folge](https://github.com/autoweirdfm/autoweirdfm.github.io/issues/57).
+- Die große Geste - nur original mit [diesem Lied](https://www.youtube.com/watch?v=quRsHcaFJjA).
+
+Bier:
+
+- Es gibt erstmal Kölsch! Toll. Jubel. Das beste Kölsch, was wir an diesem Abend getrunken haben. Holger erlaubt qua Herkunft keine positive Aussage zu Kölsch! Dem Bene schmeckts!
+  - Bene schmeckt sein [Früh Kölsch](https://untappd.com/b/colner-hofbrau-fruh-fruh-kolsch/1639).
+  - Holger trinkt ein [Reissdorf](https://untappd.com/b/privat-brauerei-heinrich-reissdorf-reissdorf-kolsch/27194) und schwelgt in Erinnerungen!
+- Dann gibt es ein Zweitbier!
+  - Bene schlürft ein [SupaDupa IPA](https://untappd.com/b/ueberquell-brauwerkstatt-supadupa-ipa/2215280). Heller als ein Alt, leckerer als ein Kölsch.
+  - Holger trinkt ein [Nachtflug Stout](https://untappd.com/b/propeller-bier-nachtflug/139896).
+  Nicht sommerlich, aber der Hammer!
+
+Datum der Aufnahme: 23.08.2018
+
+
+
+
