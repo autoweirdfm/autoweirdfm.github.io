@@ -1,15 +1,15 @@
 ---
 layout: post
 title:  "Folge 49: Der PO - Das unbekannte Wesen!"
-date:   2018-09-02 18:00:00 +0100
+date:   2018-09-02 21:42:00 +0100
 categories: podcast
 permalink: /folge49-po/
 image: /assets/images/autoweirdfm_logo_500x500.png
-podcast_link: http://autoweirdfm.s3.amazonaws.com/podcasts/folge-48-software-crafting-pt2.mp3
-podcast_file_size: 59 MB
-podcast_duration: "01:00:50"
-podcast_length: 58425826
-published: false
+podcast_link: http://autoweirdfm.s3.amazonaws.com/podcasts/folge-49-der-po.mp3
+podcast_file_size: 61,9 MB
+podcast_duration: "01:03:39"
+podcast_length: 61126007
+published: true
 ---
 Es brummt! Nicht! Mehr! Wir sitzen im schönen Holzheim und wir können unser volles Equipment auffahren! Bäm! Marcel Reifs Erben sind jetzt auch in Holzheim am Start!
 
@@ -27,7 +27,7 @@ Links:
 - Der [Stay Forever Podcast](https://www.stayforever.de/) ist voller popkultureller Referenzen. Sollen wir das auch mal machen?
 - Das [agile Manifest](http://agilemanifesto.org/history.html)! Nicht in den Alpen entstanden! Sondern in Utah!
 - Heute geht es um die Rolle des [Product Owners (PO)](http://scrum-master.de/Scrum-Rollen/Scrum-Rollen_Product_Owner).
-- Christian (https://twitter.com/prisochr) ist Benedikts PO Vorbild
+- [Christian](https://twitter.com/prisochr) ist Benedikts PO Vorbild.
 - Das [Planning 2](https://blog.borisgloger.com/2013/01/21/bastelecke-sprint-planning-2/) ist ein Meeting, in dem es darum geht, das "Wie" einer User Story zu klären.
 - Wir reden auch über die [Stakeholderanalyse](https://www.openpm.info/display/openPM/Stakeholderanalyse).
 - Bene hat das Tool [ProductPlan](https://www.productplan.com/) kennengelernt.
