@@ -16,7 +16,7 @@ Open Source als Beruf - Traum oder... Ja was denn sonst? Natürlich ist das ein 
 Dem wollen wir auf den Grund gehen.
 Und da wir bekanntlich nie wissen wovon wir reden, haben wir heute mal jemanden eingeladen, der weiß wovon er spricht.
 [Henning Treu](https://twitter.com/henningtreu) arbeitet als _Senior Developer Evangelist Connected Home_ (Was für ein Titel!) bei der Telekom und lebt diesen Traum:
-Er wird dafür bezahlt, das Open-Source-Projekt [Eclipse Smart Home](http://www.eclipse.org/smarthome/) weiter zu entwickeln.
+Er wird dafür bezahlt, das Open-Source-Projekt [Eclipse SmartHome](https://www.eclipse.org/smarthome/) weiter zu entwickeln.
 Wie das alles so im Konzern-Kontext funktioniert, wie sich seine Arbeit von der Arbeit des gemeinen Software Entwicklers unterscheidet und wie man im Dauer-Home-Office nicht verwahrlost, davon berichtet uns Henning in epischer Länge und Breite.
 Außerdem behauptet der Bene, dass der Holger irgendwie sehr gehässig unterwegs war, dabei stimmt das doch gar nicht. Stimmt wohl!
 Hoffentlich möchte da überhaupt noch mal jemand als Gast dabei sein! Ich weiß nicht was du hast! Das ist mein scheiß Ring da!
@@ -24,14 +24,14 @@ Aber natürlich bedanken wir uns ganz herzlich, dass Henning sich die Zeit genom
 
 Links:
 
-- [Qivicon](www.qivicon.com/smarthome‎) ist eine Plattform für Smart Home an der unterschiedliche Unternehmen beteiligt sind.
-- [Eclipse Smart Home](http://www.eclipse.org/smarthome/) ist der Kern der Code Base für Qivicon.
-- Natürlich is Eclipse Smart Home eine [OSGi](https://www.osgi.org) Anwendung.
-- [openHAB](https://www.openhab.org) ist das Open Source Packaging von Eclipse Smart Home mit zusätzlichen Packages
-- Wer ist schaluer? [Siri](https://www.apple.com/de/ios/siri/) oder [Alexa](https://www.amazon.de/echo)? Henning hat da ne Meinung zu.
+- [Qivicon](https://www.qivicon.com) ist eine Plattform für Smart Home an der unterschiedliche Unternehmen beteiligt sind.
+- [Eclipse SmartHome](https://www.eclipse.org/smarthome/) ist der Kern der Code Base für Qivicon.
+- Natürlich is Eclipse SmartHome eine [OSGi](https://www.osgi.org) Anwendung.
+- [openHAB](https://www.openhab.org) ist das Open Source Packaging von Eclipse SmartHome mit zusätzlichen Packages
+- Wer ist schlauer? [Siri](https://www.apple.com/de/ios/siri/) oder [Alexa](https://www.amazon.de/echo)? Henning hat da ne Meinung zu.
 - Die [openHAB HomeKit Bridge](https://github.com/htreu/OpenHAB-HomeKit-Bridge) war Hennings erstes Open Source Projekt.
 - Die Programmiersprache [R](https://www.r-project.org) ist die goldene Mitte der API Stabilität.
-- Die Eclipse Community trifft sich jährlich auf der [eclipseCON](https://www.eclipsecon.org/europe2017/iot).
+- Die Eclipse Community trifft sich jährlich auf der [EclipseCon](https://www.eclipsecon.org/europe2017/iot).
 - Henning ist Organisator eines [openHAB Meetups](https://www.meetup.com/de-DE/openHAB-Meetup-Dusseldorf/) in Düsseldorf und Umgebung. Schaut doch beim nächsten Treffen mal vorbei.
 
 Bier:
